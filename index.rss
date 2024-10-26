@@ -1,0 +1,1840 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Notion youtube as podcast</title>
+    <link>https://flask-hello-world-qbmp.onrender.com/atom.xml</link>
+    <description>Notion youtube as podcast</description>
+    <atom:link href="https://flask-hello-world-qbmp.onrender.com/atom.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sat, 26 Oct 2024 10:33:50 +0000</lastBuildDate>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/>
+    <item>
+      <title>Я ПОСМОТРЕЛ 100 ЛЕКЦИЙ О ФИЛОСОФИИ И ВОТ ЧТО Я ПОНЯЛ</title>
+      <link>https://www.youtube.com/watch?v=RlGo9O1AYrQ</link>
+      <guid isPermaLink="false">RlGo9O1AYrQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=RlGo9O1AYrQ" length="0" type="video/mp4"/>
+      <pubDate>Fri, 25 Oct 2024 17:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/RlGo9O1AYrQ/maxresdefault.jpg"/>
+      <itunes:order>205</itunes:order>
+    </item>
+    <item>
+      <title>The Unfair Advantage Of The 60 Second Procrastination Rule</title>
+      <link>https://www.youtube.com/watch?v=uvjJEQBGbJQ</link>
+      <guid isPermaLink="false">uvjJEQBGbJQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=uvjJEQBGbJQ" length="0" type="video/mp4"/>
+      <pubDate>Thu, 17 Oct 2024 20:48:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/uvjJEQBGbJQ/maxresdefault.jpg"/>
+      <itunes:order>204</itunes:order>
+    </item>
+    <item>
+      <title>SHOE WEAR: What it means.  Why it matters.  How to fix it.</title>
+      <link>https://www.youtube.com/watch?v=yaZKmCq6sRQ</link>
+      <guid isPermaLink="false">yaZKmCq6sRQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=yaZKmCq6sRQ" length="0" type="video/mp4"/>
+      <pubDate>Tue, 15 Oct 2024 20:21:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/yaZKmCq6sRQ/maxresdefault.jpg"/>
+      <itunes:order>203</itunes:order>
+    </item>
+    <item>
+      <title>Как ЖИТЬ ЛЕГЧЕ среди людей (проверено на себе)</title>
+      <link>https://www.youtube.com/watch?v=fvqqUdq2TwQ</link>
+      <guid isPermaLink="false">fvqqUdq2TwQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=fvqqUdq2TwQ" length="0" type="video/mp4"/>
+      <pubDate>Thu, 03 Oct 2024 22:04:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/fvqqUdq2TwQ/maxresdefault.jpg"/>
+      <itunes:order>202</itunes:order>
+    </item>
+    <item>
+      <title>Как Дерек хакнул телефон Лайнуса (Veritasium)</title>
+      <link>https://www.youtube.com/watch?v=DQNq8gWulf0</link>
+      <guid isPermaLink="false">DQNq8gWulf0</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=DQNq8gWulf0" length="0" type="video/mp4"/>
+      <pubDate>Wed, 25 Sep 2024 10:47:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/DQNq8gWulf0/maxresdefault.jpg"/>
+      <itunes:order>201</itunes:order>
+    </item>
+    <item>
+      <title>Звуковые иллюзии, которые работают на всех (почти) [Veritasium]</title>
+      <link>https://www.youtube.com/watch?v=8pCuUfbdheE</link>
+      <guid isPermaLink="false">8pCuUfbdheE</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=8pCuUfbdheE" length="0" type="video/mp4"/>
+      <pubDate>Wed, 11 Sep 2024 11:37:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/8pCuUfbdheE/maxresdefault.jpg"/>
+      <itunes:order>200</itunes:order>
+    </item>
+    <item>
+      <title>Why Democracy Is Mathematically Impossible</title>
+      <link>https://www.youtube.com/watch?v=qf7ws2DF-zk</link>
+      <guid isPermaLink="false">qf7ws2DF-zk</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=qf7ws2DF-zk" length="0" type="video/mp4"/>
+      <pubDate>Tue, 27 Aug 2024 21:27:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/qf7ws2DF-zk/maxresdefault.jpg"/>
+      <itunes:order>199</itunes:order>
+    </item>
+    <item>
+      <title>Debunking Visual Myths: What science says and how to leverage it for better PKM</title>
+      <link>https://www.youtube.com/watch?v=_3-OmhLeZUA</link>
+      <guid isPermaLink="false">_3-OmhLeZUA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=_3-OmhLeZUA" length="0" type="video/mp4"/>
+      <pubDate>Mon, 12 Aug 2024 12:05:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/_3-OmhLeZUA/maxresdefault.jpg"/>
+      <itunes:order>198</itunes:order>
+    </item>
+    <item>
+      <title>How To Find Time To Learn After Work | Prime Reacts</title>
+      <link>https://www.youtube.com/watch?v=T8ZKo8Wa7hw</link>
+      <guid isPermaLink="false">T8ZKo8Wa7hw</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=T8ZKo8Wa7hw" length="0" type="video/mp4"/>
+      <pubDate>Mon, 05 Aug 2024 13:17:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/T8ZKo8Wa7hw/maxresdefault.jpg"/>
+      <itunes:order>197</itunes:order>
+    </item>
+    <item>
+      <title>The Best Learning Tool in History - 400 years ahead of its time!</title>
+      <link>https://www.youtube.com/watch?v=lML0ndFlBuc</link>
+      <guid isPermaLink="false">lML0ndFlBuc</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=lML0ndFlBuc" length="0" type="video/mp4"/>
+      <pubDate>Fri, 02 Aug 2024 21:15:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/lML0ndFlBuc/maxresdefault.jpg"/>
+      <itunes:order>196</itunes:order>
+    </item>
+    <item>
+      <title>Tangram Paradoxes</title>
+      <link>https://www.youtube.com/watch?v=Q7PDrh3Dprw</link>
+      <guid isPermaLink="false">Q7PDrh3Dprw</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Q7PDrh3Dprw" length="0" type="video/mp4"/>
+      <pubDate>Wed, 31 Jul 2024 21:53:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Q7PDrh3Dprw/maxresdefault.jpg"/>
+      <itunes:order>195</itunes:order>
+    </item>
+    <item>
+      <title>Is your todo list overwhelming? Check this out.</title>
+      <link>https://www.youtube.com/watch?v=69d66D4lH5o</link>
+      <guid isPermaLink="false">69d66D4lH5o</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=69d66D4lH5o" length="0" type="video/mp4"/>
+      <pubDate>Fri, 26 Jul 2024 07:59:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/69d66D4lH5o/maxresdefault.jpg"/>
+      <itunes:order>194</itunes:order>
+    </item>
+    <item>
+      <title>Episode 07: Intro to Behavioural Interviews</title>
+      <link>https://www.youtube.com/watch?v=PJKYqLP6MRE</link>
+      <guid isPermaLink="false">PJKYqLP6MRE</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=PJKYqLP6MRE" length="0" type="video/mp4"/>
+      <pubDate>Tue, 16 Jul 2024 22:35:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/PJKYqLP6MRE/maxresdefault.jpg"/>
+      <itunes:order>193</itunes:order>
+    </item>
+    <item>
+      <title>Секрет хорошего отпуска [Veritasium]</title>
+      <link>https://www.youtube.com/watch?v=JIMx6cE-r94</link>
+      <guid isPermaLink="false">JIMx6cE-r94</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=JIMx6cE-r94" length="0" type="video/mp4"/>
+      <pubDate>Tue, 16 Jul 2024 20:04:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/JIMx6cE-r94/maxresdefault.jpg"/>
+      <itunes:order>192</itunes:order>
+    </item>
+    <item>
+      <title>Simulating the Evolution of Rock, Paper, Scissors</title>
+      <link>https://www.youtube.com/watch?v=tCoEYFbDVoI</link>
+      <guid isPermaLink="false">tCoEYFbDVoI</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=tCoEYFbDVoI" length="0" type="video/mp4"/>
+      <pubDate>Sat, 13 Jul 2024 17:22:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/tCoEYFbDVoI/maxresdefault.jpg"/>
+      <itunes:order>191</itunes:order>
+    </item>
+    <item>
+      <title>learning a new language is easy, actually</title>
+      <link>https://www.youtube.com/watch?v=E6588DlZW-c</link>
+      <guid isPermaLink="false">E6588DlZW-c</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=E6588DlZW-c" length="0" type="video/mp4"/>
+      <pubDate>Tue, 02 Jul 2024 15:17:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/E6588DlZW-c/maxresdefault.jpg"/>
+      <itunes:order>190</itunes:order>
+    </item>
+    <item>
+      <title>being productive is easy, actually</title>
+      <link>https://www.youtube.com/watch?v=3kKB6wYqP7Y</link>
+      <guid isPermaLink="false">3kKB6wYqP7Y</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=3kKB6wYqP7Y" length="0" type="video/mp4"/>
+      <pubDate>Sun, 30 Jun 2024 13:19:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/3kKB6wYqP7Y/maxresdefault.jpg"/>
+      <itunes:order>189</itunes:order>
+    </item>
+    <item>
+      <title>Как развить ДИСЦИПЛИНУ: лучший способ</title>
+      <link>https://www.youtube.com/watch?v=bt82nHBoCDk</link>
+      <guid isPermaLink="false">bt82nHBoCDk</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=bt82nHBoCDk" length="0" type="video/mp4"/>
+      <pubDate>Tue, 25 Jun 2024 16:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/bt82nHBoCDk/maxresdefault.jpg"/>
+      <itunes:order>188</itunes:order>
+    </item>
+    <item>
+      <title>Дофаминовое голодание: ГЛУПОСТЬ или ПРЕСТУПЛЕНИЕ?</title>
+      <link>https://www.youtube.com/watch?v=_Y7FArWMScU</link>
+      <guid isPermaLink="false">_Y7FArWMScU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=_Y7FArWMScU" length="0" type="video/mp4"/>
+      <pubDate>Wed, 12 Jun 2024 19:04:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/_Y7FArWMScU/maxresdefault.jpg"/>
+      <itunes:order>187</itunes:order>
+    </item>
+    <item>
+      <title>Сон БЕЗ ТАБЛЕТОК [как уснуть быстрее без снотворного]</title>
+      <link>https://www.youtube.com/watch?v=O7EROpw6ccg</link>
+      <guid isPermaLink="false">O7EROpw6ccg</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=O7EROpw6ccg" length="0" type="video/mp4"/>
+      <pubDate>Tue, 11 Jun 2024 18:25:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/O7EROpw6ccg/maxresdefault.jpg"/>
+      <itunes:order>186</itunes:order>
+    </item>
+    <item>
+      <title>Как за 1,5 минуты НАЙТИ ВЫХОД из любой ситуации (метод Э****на)</title>
+      <link>https://www.youtube.com/watch?v=TGDSxRMAJ3c</link>
+      <guid isPermaLink="false">TGDSxRMAJ3c</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=TGDSxRMAJ3c" length="0" type="video/mp4"/>
+      <pubDate>Tue, 11 Jun 2024 18:21:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/TGDSxRMAJ3c/maxresdefault.jpg"/>
+      <itunes:order>185</itunes:order>
+    </item>
+    <item>
+      <title>Как решить ЛЮБУЮ проблему [гибкость ума в помощь]</title>
+      <link>https://www.youtube.com/watch?v=mTR138ZFdu8</link>
+      <guid isPermaLink="false">mTR138ZFdu8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=mTR138ZFdu8" length="0" type="video/mp4"/>
+      <pubDate>Tue, 11 Jun 2024 18:17:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/mTR138ZFdu8/maxresdefault.jpg"/>
+      <itunes:order>184</itunes:order>
+    </item>
+    <item>
+      <title>I Didn't Know Where CHORDS Came From Until I Knew THIS</title>
+      <link>https://www.youtube.com/watch?v=2hs-9tsRmW8</link>
+      <guid isPermaLink="false">2hs-9tsRmW8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=2hs-9tsRmW8" length="0" type="video/mp4"/>
+      <pubDate>Fri, 31 May 2024 07:33:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/2hs-9tsRmW8/maxresdefault.jpg"/>
+      <itunes:order>183</itunes:order>
+    </item>
+    <item>
+      <title>Сегодня я многое понял. ep.19 | Приемы работы с бумажной книгой</title>
+      <link>https://www.youtube.com/watch?v=3uqk3xUS21M</link>
+      <guid isPermaLink="false">3uqk3xUS21M</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=3uqk3xUS21M" length="0" type="video/mp4"/>
+      <pubDate>Tue, 28 May 2024 09:28:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/3uqk3xUS21M/maxresdefault.jpg"/>
+      <itunes:order>182</itunes:order>
+    </item>
+    <item>
+      <title>The Fastest Way to Learn a New Language: The Solar System Theory</title>
+      <link>https://www.youtube.com/watch?v=95NgtNgmnWA</link>
+      <guid isPermaLink="false">95NgtNgmnWA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=95NgtNgmnWA" length="0" type="video/mp4"/>
+      <pubDate>Tue, 21 May 2024 06:30:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/95NgtNgmnWA/maxresdefault.jpg"/>
+      <itunes:order>181</itunes:order>
+    </item>
+    <item>
+      <title>Что будет, если программировать 12 часов в день за $2 в час</title>
+      <link>https://www.youtube.com/watch?v=pgcZmH2qdjs</link>
+      <guid isPermaLink="false">pgcZmH2qdjs</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=pgcZmH2qdjs" length="0" type="video/mp4"/>
+      <pubDate>Thu, 16 May 2024 08:52:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/pgcZmH2qdjs/maxresdefault.jpg"/>
+      <itunes:order>180</itunes:order>
+    </item>
+    <item>
+      <title>Мой любимый ресурс для изучения языка</title>
+      <link>https://www.youtube.com/watch?v=7gGYekRXqc8</link>
+      <guid isPermaLink="false">7gGYekRXqc8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=7gGYekRXqc8" length="0" type="video/mp4"/>
+      <pubDate>Mon, 06 May 2024 11:11:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/7gGYekRXqc8/maxresdefault.jpg"/>
+      <itunes:order>179</itunes:order>
+    </item>
+    <item>
+      <title>The Fastest Way to Learn a New Language in 2024: The Road Trip Method</title>
+      <link>https://www.youtube.com/watch?v=kVHJ4kMC0t0</link>
+      <guid isPermaLink="false">kVHJ4kMC0t0</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=kVHJ4kMC0t0" length="0" type="video/mp4"/>
+      <pubDate>Fri, 26 Apr 2024 14:45:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/kVHJ4kMC0t0/maxresdefault.jpg"/>
+      <itunes:order>178</itunes:order>
+    </item>
+    <item>
+      <title>Ex-Professor Reveals Way to REALLY Learn Languages (according to science)</title>
+      <link>https://www.youtube.com/watch?v=9Olt2FO99SQ</link>
+      <guid isPermaLink="false">9Olt2FO99SQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=9Olt2FO99SQ" length="0" type="video/mp4"/>
+      <pubDate>Fri, 26 Apr 2024 09:56:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/9Olt2FO99SQ/maxresdefault.jpg"/>
+      <itunes:order>177</itunes:order>
+    </item>
+    <item>
+      <title>NixOS - Полный Разбор: Nixpkgs, Flakes, home-manager</title>
+      <link>https://www.youtube.com/watch?v=HOq7XTygAAU</link>
+      <guid isPermaLink="false">HOq7XTygAAU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=HOq7XTygAAU" length="0" type="video/mp4"/>
+      <pubDate>Wed, 24 Apr 2024 09:27:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/HOq7XTygAAU/maxresdefault.jpg"/>
+      <itunes:order>176</itunes:order>
+    </item>
+    <item>
+      <title>Основной вопрос философии // Роман Осин. Философский камень №8</title>
+      <link>https://www.youtube.com/watch?v=_-_fcH0JKew</link>
+      <guid isPermaLink="false">_-_fcH0JKew</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=_-_fcH0JKew" length="0" type="video/mp4"/>
+      <pubDate>Wed, 24 Apr 2024 09:07:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/_-_fcH0JKew/maxresdefault.jpg"/>
+      <itunes:order>175</itunes:order>
+    </item>
+    <item>
+      <title>Можно ли учить сразу несколько языков?</title>
+      <link>https://www.youtube.com/watch?v=asUZxq0_3wk</link>
+      <guid isPermaLink="false">asUZxq0_3wk</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=asUZxq0_3wk" length="0" type="video/mp4"/>
+      <pubDate>Wed, 24 Apr 2024 08:30:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/asUZxq0_3wk/maxresdefault.jpg"/>
+      <itunes:order>174</itunes:order>
+    </item>
+    <item>
+      <title>Как учить язык самому? Гениальное видео одной девочки</title>
+      <link>https://www.youtube.com/watch?v=7jr9NQF3xSo</link>
+      <guid isPermaLink="false">7jr9NQF3xSo</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=7jr9NQF3xSo" length="0" type="video/mp4"/>
+      <pubDate>Wed, 24 Apr 2024 08:15:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/7jr9NQF3xSo/maxresdefault.jpg"/>
+      <itunes:order>173</itunes:order>
+    </item>
+    <item>
+      <title>How to Read an Execution Plan: Databases for Developers: Performance #1</title>
+      <link>https://www.youtube.com/watch?v=NkXxRodAFUY</link>
+      <guid isPermaLink="false">NkXxRodAFUY</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=NkXxRodAFUY" length="0" type="video/mp4"/>
+      <pubDate>Tue, 16 Apr 2024 14:23:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/NkXxRodAFUY/maxresdefault.jpg"/>
+      <itunes:order>172</itunes:order>
+    </item>
+    <item>
+      <title>Театр безопасности. Статус S07Е32</title>
+      <link>https://www.youtube.com/watch?v=Y_CBeKiEZx0</link>
+      <guid isPermaLink="false">Y_CBeKiEZx0</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Y_CBeKiEZx0" length="0" type="video/mp4"/>
+      <pubDate>Wed, 10 Apr 2024 15:04:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Y_CBeKiEZx0/maxresdefault.jpg"/>
+      <itunes:order>171</itunes:order>
+    </item>
+    <item>
+      <title>Что такое опционы? [Veritasium]</title>
+      <link>https://www.youtube.com/watch?v=c-yf4nLgq2Q</link>
+      <guid isPermaLink="false">c-yf4nLgq2Q</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=c-yf4nLgq2Q" length="0" type="video/mp4"/>
+      <pubDate>Tue, 09 Apr 2024 07:56:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/c-yf4nLgq2Q/maxresdefault.jpg"/>
+      <itunes:order>170</itunes:order>
+    </item>
+    <item>
+      <title>The Better Boarding Method Airlines Won't Use</title>
+      <link>https://www.youtube.com/watch?v=oAHbLRjF0vo</link>
+      <guid isPermaLink="false">oAHbLRjF0vo</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=oAHbLRjF0vo" length="0" type="video/mp4"/>
+      <pubDate>Wed, 03 Apr 2024 14:59:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/oAHbLRjF0vo/maxresdefault.jpg"/>
+      <itunes:order>169</itunes:order>
+    </item>
+    <item>
+      <title>Why is this number everywhere?</title>
+      <link>https://www.youtube.com/watch?v=d6iQrh2TK98</link>
+      <guid isPermaLink="false">d6iQrh2TK98</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=d6iQrh2TK98" length="0" type="video/mp4"/>
+      <pubDate>Fri, 29 Mar 2024 19:45:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/d6iQrh2TK98/maxresdefault.jpg"/>
+      <itunes:order>168</itunes:order>
+    </item>
+    <item>
+      <title>Теория игр: жизнь, Вселенная и всё остальное [Veritasium]</title>
+      <link>https://www.youtube.com/watch?v=o-lFK7nZIKE</link>
+      <guid isPermaLink="false">o-lFK7nZIKE</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=o-lFK7nZIKE" length="0" type="video/mp4"/>
+      <pubDate>Sun, 03 Mar 2024 20:26:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/o-lFK7nZIKE/maxresdefault.jpg"/>
+      <itunes:order>167</itunes:order>
+    </item>
+    <item>
+      <title>КРАСНОЯРСК 24 ЯНВАРЯ! ЛЕКЦИЯ О ТЕОРИИ МЕХАНИЗМОВ!</title>
+      <link>https://www.youtube.com/watch?v=93FQ67atlTY</link>
+      <guid isPermaLink="false">93FQ67atlTY</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=93FQ67atlTY" length="0" type="video/mp4"/>
+      <pubDate>Tue, 27 Feb 2024 14:23:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/93FQ67atlTY/maxresdefault.jpg"/>
+      <itunes:order>166</itunes:order>
+    </item>
+    <item>
+      <title>МЕХАНИЗМЫ, УСТОЙЧИВЫЕ К СГОВОРУ: ЛЕКЦИЯ В НИЖНЕМ НОВГОРОДЕ 12 СЕНТЯБРЯ!</title>
+      <link>https://www.youtube.com/watch?v=vBnVrVKLvYY</link>
+      <guid isPermaLink="false">vBnVrVKLvYY</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=vBnVrVKLvYY" length="0" type="video/mp4"/>
+      <pubDate>Tue, 27 Feb 2024 14:08:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/vBnVrVKLvYY/maxresdefault.jpg"/>
+      <itunes:order>165</itunes:order>
+    </item>
+    <item>
+      <title>хочу, но не делаю | как побороть лень и прокрастинацию | как достигать цели</title>
+      <link>https://www.youtube.com/watch?v=meXH80kFS58</link>
+      <guid isPermaLink="false">meXH80kFS58</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=meXH80kFS58" length="0" type="video/mp4"/>
+      <pubDate>Thu, 22 Feb 2024 12:30:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/meXH80kFS58/maxresdefault.jpg"/>
+      <itunes:order>164</itunes:order>
+    </item>
+    <item>
+      <title>Let's build the GPT Tokenizer</title>
+      <link>https://www.youtube.com/watch?v=zduSFxRajkE</link>
+      <guid isPermaLink="false">zduSFxRajkE</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=zduSFxRajkE" length="0" type="video/mp4"/>
+      <pubDate>Wed, 21 Feb 2024 13:37:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/zduSFxRajkE/maxresdefault.jpg"/>
+      <itunes:order>163</itunes:order>
+    </item>
+    <item>
+      <title>Is it normal to talk to yourself?</title>
+      <link>https://www.youtube.com/watch?v=iNyUmbmQQZg</link>
+      <guid isPermaLink="false">iNyUmbmQQZg</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=iNyUmbmQQZg" length="0" type="video/mp4"/>
+      <pubDate>Tue, 06 Feb 2024 09:21:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/iNyUmbmQQZg/maxresdefault.jpg"/>
+      <itunes:order>162</itunes:order>
+    </item>
+    <item>
+      <title>3 tips on how to study effectively</title>
+      <link>https://www.youtube.com/watch?v=TjPFZaMe2yw</link>
+      <guid isPermaLink="false">TjPFZaMe2yw</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=TjPFZaMe2yw" length="0" type="video/mp4"/>
+      <pubDate>Tue, 06 Feb 2024 08:45:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/TjPFZaMe2yw/maxresdefault.jpg"/>
+      <itunes:order>161</itunes:order>
+    </item>
+    <item>
+      <title>I Gamified Obsidian To Make Notemaking More Fun Than Minecraft</title>
+      <link>https://www.youtube.com/watch?v=J40YidrwVSw</link>
+      <guid isPermaLink="false">J40YidrwVSw</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=J40YidrwVSw" length="0" type="video/mp4"/>
+      <pubDate>Mon, 05 Feb 2024 09:32:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/J40YidrwVSw/maxresdefault.jpg"/>
+      <itunes:order>160</itunes:order>
+    </item>
+    <item>
+      <title>Two 2-minute Rules to Beat Procrastination (in 2 minutes)</title>
+      <link>https://www.youtube.com/watch?v=0CmtDk-joT4</link>
+      <guid isPermaLink="false">0CmtDk-joT4</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=0CmtDk-joT4" length="0" type="video/mp4"/>
+      <pubDate>Wed, 31 Jan 2024 14:53:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/0CmtDk-joT4/maxresdefault.jpg"/>
+      <itunes:order>159</itunes:order>
+    </item>
+    <item>
+      <title>Overcoming Anxiety - Andrew Huberman, Ph.D.</title>
+      <link>https://www.youtube.com/watch?v=z25f6qy361Y</link>
+      <guid isPermaLink="false">z25f6qy361Y</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=z25f6qy361Y" length="0" type="video/mp4"/>
+      <pubDate>Fri, 26 Jan 2024 13:48:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/z25f6qy361Y/maxresdefault.jpg"/>
+      <itunes:order>158</itunes:order>
+    </item>
+    <item>
+      <title>Тестовый вопрос, на который все ответили неверно [Veritasium]</title>
+      <link>https://www.youtube.com/watch?v=yP_hDez9wXA</link>
+      <guid isPermaLink="false">yP_hDez9wXA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=yP_hDez9wXA" length="0" type="video/mp4"/>
+      <pubDate>Wed, 24 Jan 2024 10:32:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/yP_hDez9wXA/maxresdefault.jpg"/>
+      <itunes:order>157</itunes:order>
+    </item>
+    <item>
+      <title>5 Powerful Habits To Build Unshakeable Confidence - Aliénor Hunter (Ultraspeaking)</title>
+      <link>https://www.youtube.com/watch?v=XJaIrkLQA_0</link>
+      <guid isPermaLink="false">XJaIrkLQA_0</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=XJaIrkLQA_0" length="0" type="video/mp4"/>
+      <pubDate>Sat, 13 Jan 2024 14:42:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/XJaIrkLQA_0/maxresdefault.jpg"/>
+      <itunes:order>156</itunes:order>
+    </item>
+    <item>
+      <title>I Tried 137 Productivity Tools. These Are The Best.</title>
+      <link>https://www.youtube.com/watch?v=LXYjFsuVOoc</link>
+      <guid isPermaLink="false">LXYjFsuVOoc</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=LXYjFsuVOoc" length="0" type="video/mp4"/>
+      <pubDate>Mon, 08 Jan 2024 10:27:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/LXYjFsuVOoc/maxresdefault.jpg"/>
+      <itunes:order>155</itunes:order>
+    </item>
+    <item>
+      <title>Obsidian Vault Tour | Тур по хранилищу Обсидиан</title>
+      <link>https://www.youtube.com/watch?v=SDyyoh2v5OI</link>
+      <guid isPermaLink="false">SDyyoh2v5OI</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=SDyyoh2v5OI" length="0" type="video/mp4"/>
+      <pubDate>Mon, 01 Jan 2024 23:12:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/SDyyoh2v5OI/maxresdefault.jpg"/>
+      <itunes:order>154</itunes:order>
+    </item>
+    <item>
+      <title>VISUAL SUMMARY: Feel-Good Productivity by Ali Abdaal - The Periodic Table of Productivity</title>
+      <link>https://www.youtube.com/watch?v=Z-ksCSK-1mk</link>
+      <guid isPermaLink="false">Z-ksCSK-1mk</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Z-ksCSK-1mk" length="0" type="video/mp4"/>
+      <pubDate>Fri, 29 Dec 2023 19:37:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Z-ksCSK-1mk/maxresdefault.jpg"/>
+      <itunes:order>153</itunes:order>
+    </item>
+    <item>
+      <title>How I'm Building a Second Brain in 2024: Logseq + Tana</title>
+      <link>https://www.youtube.com/watch?v=zbL4b50fGkM</link>
+      <guid isPermaLink="false">zbL4b50fGkM</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=zbL4b50fGkM" length="0" type="video/mp4"/>
+      <pubDate>Fri, 22 Dec 2023 19:31:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/zbL4b50fGkM/maxresdefault.jpg"/>
+      <itunes:order>152</itunes:order>
+    </item>
+    <item>
+      <title>Merging Old Notes into One: Illustrations &amp; Insights Combined</title>
+      <link>https://www.youtube.com/watch?v=pucR1OMERTQ</link>
+      <guid isPermaLink="false">pucR1OMERTQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=pucR1OMERTQ" length="0" type="video/mp4"/>
+      <pubDate>Thu, 14 Dec 2023 10:10:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/pucR1OMERTQ/maxresdefault.jpg"/>
+      <itunes:order>151</itunes:order>
+    </item>
+    <item>
+      <title>Дофаминовая яма. Как мы губим свой мозг</title>
+      <link>https://www.youtube.com/watch?v=zW1jpm7tJuA</link>
+      <guid isPermaLink="false">zW1jpm7tJuA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=zW1jpm7tJuA" length="0" type="video/mp4"/>
+      <pubDate>Fri, 24 Nov 2023 21:02:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/zW1jpm7tJuA/maxresdefault.jpg"/>
+      <itunes:order>150</itunes:order>
+    </item>
+    <item>
+      <title>Альтернативный английский: когда нужно говорить не по учебнику | Virginia Beowulf</title>
+      <link>https://www.youtube.com/watch?v=d3hwrl0ACvU</link>
+      <guid isPermaLink="false">d3hwrl0ACvU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=d3hwrl0ACvU" length="0" type="video/mp4"/>
+      <pubDate>Tue, 21 Nov 2023 19:39:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/d3hwrl0ACvU/maxresdefault.jpg"/>
+      <itunes:order>149</itunes:order>
+    </item>
+    <item>
+      <title>074. Чем отличаются data analyst, data engineer и data scientist – Алексей Натёкин</title>
+      <link>https://www.youtube.com/watch?v=lDkTNURDIaY</link>
+      <guid isPermaLink="false">lDkTNURDIaY</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=lDkTNURDIaY" length="0" type="video/mp4"/>
+      <pubDate>Sat, 18 Nov 2023 21:15:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/lDkTNURDIaY/maxresdefault.jpg"/>
+      <itunes:order>148</itunes:order>
+    </item>
+    <item>
+      <title>PARA Not Working? Try Creating MOCs In Obsidian</title>
+      <link>https://www.youtube.com/watch?v=P1u3UZQmaRo</link>
+      <guid isPermaLink="false">P1u3UZQmaRo</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=P1u3UZQmaRo" length="0" type="video/mp4"/>
+      <pubDate>Sun, 05 Nov 2023 18:30:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/P1u3UZQmaRo/maxresdefault.jpg"/>
+      <itunes:order>147</itunes:order>
+    </item>
+    <item>
+      <title>7 Habits that Save Me 3+ Hours a Day</title>
+      <link>https://www.youtube.com/watch?v=hXP5fUfBGQQ</link>
+      <guid isPermaLink="false">hXP5fUfBGQQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=hXP5fUfBGQQ" length="0" type="video/mp4"/>
+      <pubDate>Thu, 02 Nov 2023 15:55:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/hXP5fUfBGQQ/maxresdefault.jpg"/>
+      <itunes:order>146</itunes:order>
+    </item>
+    <item>
+      <title>How I Manage My Time - The Trident Calendar System</title>
+      <link>https://www.youtube.com/watch?v=6o2tm00Ar8A</link>
+      <guid isPermaLink="false">6o2tm00Ar8A</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=6o2tm00Ar8A" length="0" type="video/mp4"/>
+      <pubDate>Wed, 01 Nov 2023 10:33:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/6o2tm00Ar8A/maxresdefault.jpg"/>
+      <itunes:order>145</itunes:order>
+    </item>
+    <item>
+      <title>I learned a productivity system for organizing life</title>
+      <link>https://www.youtube.com/watch?v=0_44XEVOwek</link>
+      <guid isPermaLink="false">0_44XEVOwek</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=0_44XEVOwek" length="0" type="video/mp4"/>
+      <pubDate>Tue, 31 Oct 2023 14:20:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/0_44XEVOwek/maxresdefault.jpg"/>
+      <itunes:order>144</itunes:order>
+    </item>
+    <item>
+      <title>Secret To Optimizing SQL Queries - Understand The SQL Execution Order</title>
+      <link>https://www.youtube.com/watch?v=BHwzDmr6d7s</link>
+      <guid isPermaLink="false">BHwzDmr6d7s</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=BHwzDmr6d7s" length="0" type="video/mp4"/>
+      <pubDate>Wed, 25 Oct 2023 20:57:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/BHwzDmr6d7s/maxresdefault.jpg"/>
+      <itunes:order>143</itunes:order>
+    </item>
+    <item>
+      <title>Как ПРАВИЛЬНО составить РЕЗЮМЕ, чтобы тебя пригласили на собеседование</title>
+      <link>https://www.youtube.com/watch?v=VOff0Uhr8X0</link>
+      <guid isPermaLink="false">VOff0Uhr8X0</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=VOff0Uhr8X0" length="0" type="video/mp4"/>
+      <pubDate>Thu, 19 Oct 2023 20:09:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/VOff0Uhr8X0/maxresdefault.jpg"/>
+      <itunes:order>142</itunes:order>
+    </item>
+    <item>
+      <title>99 (S4E04). Data Mesh &amp; dbt</title>
+      <link>https://www.youtube.com/watch?v=YZhaZCLresQ</link>
+      <guid isPermaLink="false">YZhaZCLresQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=YZhaZCLresQ" length="0" type="video/mp4"/>
+      <pubDate>Thu, 19 Oct 2023 19:14:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/YZhaZCLresQ/maxresdefault.jpg"/>
+      <itunes:order>141</itunes:order>
+    </item>
+    <item>
+      <title>Teach Yourself a Language in 15 Minutes a Day: Step-by-Step Demonstration</title>
+      <link>https://www.youtube.com/watch?v=MqR3K1alUio</link>
+      <guid isPermaLink="false">MqR3K1alUio</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=MqR3K1alUio" length="0" type="video/mp4"/>
+      <pubDate>Tue, 03 Oct 2023 10:16:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/MqR3K1alUio/maxresdefault.jpg"/>
+      <itunes:order>140</itunes:order>
+    </item>
+    <item>
+      <title>Циклы мотивации, управление мотивацией, базовое состояние. Лекция Ольги Маркес для PROSTO.Конфренции</title>
+      <link>https://www.youtube.com/watch?v=tWs0pEGB3SQ</link>
+      <guid isPermaLink="false">tWs0pEGB3SQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=tWs0pEGB3SQ" length="0" type="video/mp4"/>
+      <pubDate>Thu, 24 Aug 2023 20:02:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/tWs0pEGB3SQ/maxresdefault.jpg"/>
+      <itunes:order>139</itunes:order>
+    </item>
+    <item>
+      <title>После 2500 женщин их восприятие меняется. Интервью с Порноактером: Онлифанс, Министр и эскортницы</title>
+      <link>https://www.youtube.com/watch?v=zmLVuhe8zk0</link>
+      <guid isPermaLink="false">zmLVuhe8zk0</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=zmLVuhe8zk0" length="0" type="video/mp4"/>
+      <pubDate>Thu, 24 Aug 2023 08:18:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/zmLVuhe8zk0/maxresdefault.jpg"/>
+      <itunes:order>138</itunes:order>
+    </item>
+    <item>
+      <title>Я учу русский самым веселым способом</title>
+      <link>https://www.youtube.com/watch?v=ns0HtMTaazk</link>
+      <guid isPermaLink="false">ns0HtMTaazk</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=ns0HtMTaazk" length="0" type="video/mp4"/>
+      <pubDate>Mon, 21 Aug 2023 20:22:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/ns0HtMTaazk/maxresdefault.jpg"/>
+      <itunes:order>137</itunes:order>
+    </item>
+    <item>
+      <title>How Triads TRULY Unlock The Fretboard (Ft. Ariel Posen)</title>
+      <link>https://www.youtube.com/watch?v=rh6HEF5Dy2I</link>
+      <guid isPermaLink="false">rh6HEF5Dy2I</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=rh6HEF5Dy2I" length="0" type="video/mp4"/>
+      <pubDate>Sun, 20 Aug 2023 13:52:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/rh6HEF5Dy2I/maxresdefault.jpg"/>
+      <itunes:order>136</itunes:order>
+    </item>
+    <item>
+      <title>Когнитивные искажения в играх: От фрейминга до эффекта контраста</title>
+      <link>https://www.youtube.com/watch?v=kgWXB65qhps</link>
+      <guid isPermaLink="false">kgWXB65qhps</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=kgWXB65qhps" length="0" type="video/mp4"/>
+      <pubDate>Sat, 19 Aug 2023 09:37:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/kgWXB65qhps/maxresdefault.jpg"/>
+      <itunes:order>135</itunes:order>
+    </item>
+    <item>
+      <title>7 Database Paradigms</title>
+      <link>https://www.youtube.com/watch?v=W2Z7fbCLSTw</link>
+      <guid isPermaLink="false">W2Z7fbCLSTw</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=W2Z7fbCLSTw" length="0" type="video/mp4"/>
+      <pubDate>Wed, 09 Aug 2023 11:31:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/W2Z7fbCLSTw/maxresdefault.jpg"/>
+      <itunes:order>134</itunes:order>
+    </item>
+    <item>
+      <title>Импровизация в музыке | Пойми суть, потом учись</title>
+      <link>https://www.youtube.com/watch?v=_NFRdF_H8f8</link>
+      <guid isPermaLink="false">_NFRdF_H8f8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=_NFRdF_H8f8" length="0" type="video/mp4"/>
+      <pubDate>Sun, 30 Jul 2023 10:22:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/_NFRdF_H8f8/maxresdefault.jpg"/>
+      <itunes:order>133</itunes:order>
+    </item>
+    <item>
+      <title>Как начать импровизировать</title>
+      <link>https://www.youtube.com/watch?v=qtOB4S9kTJs</link>
+      <guid isPermaLink="false">qtOB4S9kTJs</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=qtOB4S9kTJs" length="0" type="video/mp4"/>
+      <pubDate>Sun, 30 Jul 2023 10:22:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/qtOB4S9kTJs/maxresdefault.jpg"/>
+      <itunes:order>132</itunes:order>
+    </item>
+    <item>
+      <title>Mastering Concept Visualizations: A Simple Workflow for Creating Effective Visuals</title>
+      <link>https://www.youtube.com/watch?v=MTdbhePtCco</link>
+      <guid isPermaLink="false">MTdbhePtCco</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=MTdbhePtCco" length="0" type="video/mp4"/>
+      <pubDate>Fri, 28 Jul 2023 12:28:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/MTdbhePtCco/maxresdefault.jpg"/>
+      <itunes:order>131</itunes:order>
+    </item>
+    <item>
+      <title>This Simple File Management System Changed My Life!</title>
+      <link>https://www.youtube.com/watch?v=MM-MPS57qKA</link>
+      <guid isPermaLink="false">MM-MPS57qKA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=MM-MPS57qKA" length="0" type="video/mp4"/>
+      <pubDate>Thu, 27 Jul 2023 20:50:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/MM-MPS57qKA/maxresdefault.jpg"/>
+      <itunes:order>130</itunes:order>
+    </item>
+    <item>
+      <title>5 Levels of Soloing: Easy to Advanced</title>
+      <link>https://www.youtube.com/watch?v=SP6OhrahTIQ</link>
+      <guid isPermaLink="false">SP6OhrahTIQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=SP6OhrahTIQ" length="0" type="video/mp4"/>
+      <pubDate>Thu, 27 Jul 2023 09:56:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/SP6OhrahTIQ/maxresdefault.jpg"/>
+      <itunes:order>129</itunes:order>
+    </item>
+    <item>
+      <title>Ethical Considerations in Dataviz - Elevate Dataviz Show #14</title>
+      <link>https://www.youtube.com/watch?v=moCpkFwouH0</link>
+      <guid isPermaLink="false">moCpkFwouH0</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=moCpkFwouH0" length="0" type="video/mp4"/>
+      <pubDate>Tue, 25 Jul 2023 14:48:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/moCpkFwouH0/maxresdefault.jpg"/>
+      <itunes:order>128</itunes:order>
+    </item>
+    <item>
+      <title>Как играет соло дилетант [НЕ дворовая гитара]</title>
+      <link>https://www.youtube.com/watch?v=t9UwuL1EV5Q</link>
+      <guid isPermaLink="false">t9UwuL1EV5Q</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=t9UwuL1EV5Q" length="0" type="video/mp4"/>
+      <pubDate>Tue, 25 Jul 2023 07:43:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/t9UwuL1EV5Q/maxresdefault.jpg"/>
+      <itunes:order>127</itunes:order>
+    </item>
+    <item>
+      <title>Как стресс делает нас сильнее и разрушает личность</title>
+      <link>https://www.youtube.com/watch?v=448L83hxi-c</link>
+      <guid isPermaLink="false">448L83hxi-c</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=448L83hxi-c" length="0" type="video/mp4"/>
+      <pubDate>Mon, 24 Jul 2023 11:58:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/448L83hxi-c/maxresdefault.jpg"/>
+      <itunes:order>126</itunes:order>
+    </item>
+    <item>
+      <title>Вы ошибались всю жизнь: Что такое регресс к среднему и причём здесь успехи и провалы?</title>
+      <link>https://www.youtube.com/watch?v=6CucXhKUhnk</link>
+      <guid isPermaLink="false">6CucXhKUhnk</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=6CucXhKUhnk" length="0" type="video/mp4"/>
+      <pubDate>Fri, 21 Jul 2023 05:57:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/6CucXhKUhnk/maxresdefault.jpg"/>
+      <itunes:order>125</itunes:order>
+    </item>
+    <item>
+      <title>Billionaires Do This Every Morning - End Laziness, Escape Mediocrity &amp; Master Success | Mel Robbins</title>
+      <link>https://www.youtube.com/watch?v=LCHPSo79rB4</link>
+      <guid isPermaLink="false">LCHPSo79rB4</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=LCHPSo79rB4" length="0" type="video/mp4"/>
+      <pubDate>Wed, 19 Jul 2023 08:52:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/LCHPSo79rB4/maxresdefault.jpg"/>
+      <itunes:order>124</itunes:order>
+    </item>
+    <item>
+      <title>Энтропия, жизнь и тепловая смерть Вселенной</title>
+      <link>https://www.youtube.com/watch?v=QrmZLuZgVfk</link>
+      <guid isPermaLink="false">QrmZLuZgVfk</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=QrmZLuZgVfk" length="0" type="video/mp4"/>
+      <pubDate>Mon, 03 Jul 2023 19:27:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/QrmZLuZgVfk/maxresdefault.jpg"/>
+      <itunes:order>123</itunes:order>
+    </item>
+    <item>
+      <title>ВСЁ О ПРЕЗЕНТАЦИЯХ MCKINSEY ЗА 20 МИНУТ</title>
+      <link>https://www.youtube.com/watch?v=aVcXdNRYcU8</link>
+      <guid isPermaLink="false">aVcXdNRYcU8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=aVcXdNRYcU8" length="0" type="video/mp4"/>
+      <pubDate>Fri, 30 Jun 2023 18:28:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/aVcXdNRYcU8/maxresdefault.jpg"/>
+      <itunes:order>122</itunes:order>
+    </item>
+    <item>
+      <title>How to Get Started with Docker</title>
+      <link>https://www.youtube.com/watch?v=iqqDU2crIEQ</link>
+      <guid isPermaLink="false">iqqDU2crIEQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=iqqDU2crIEQ" length="0" type="video/mp4"/>
+      <pubDate>Fri, 30 Jun 2023 18:27:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/iqqDU2crIEQ/maxresdefault.jpg"/>
+      <itunes:order>121</itunes:order>
+    </item>
+    <item>
+      <title>Посмотри, если не можешь ничего делать</title>
+      <link>https://www.youtube.com/watch?v=jrB1NwJpWbI</link>
+      <guid isPermaLink="false">jrB1NwJpWbI</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=jrB1NwJpWbI" length="0" type="video/mp4"/>
+      <pubDate>Sun, 18 Jun 2023 11:56:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/jrB1NwJpWbI/maxresdefault.jpg"/>
+      <itunes:order>120</itunes:order>
+    </item>
+    <item>
+      <title>Gamified Data Governance Programs - Fun and Effective</title>
+      <link>https://www.youtube.com/watch?v=__oSuavpGDA</link>
+      <guid isPermaLink="false">__oSuavpGDA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=__oSuavpGDA" length="0" type="video/mp4"/>
+      <pubDate>Sun, 18 Jun 2023 07:27:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/__oSuavpGDA/maxresdefault.jpg"/>
+      <itunes:order>119</itunes:order>
+    </item>
+    <item>
+      <title>УСЛОВНЫЕ ПРЕДЛОЖЕНИЯ В АНГЛИЙСКОМ за 20 мин</title>
+      <link>https://www.youtube.com/watch?v=YbAY-x9vsNQ</link>
+      <guid isPermaLink="false">YbAY-x9vsNQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=YbAY-x9vsNQ" length="0" type="video/mp4"/>
+      <pubDate>Sat, 17 Jun 2023 09:52:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/YbAY-x9vsNQ/maxresdefault.jpg"/>
+      <itunes:order>118</itunes:order>
+    </item>
+    <item>
+      <title>Why is there no B# or E# note on the piano?</title>
+      <link>https://www.youtube.com/watch?v=lN54Y73LlLo</link>
+      <guid isPermaLink="false">lN54Y73LlLo</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=lN54Y73LlLo" length="0" type="video/mp4"/>
+      <pubDate>Fri, 16 Jun 2023 20:56:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/lN54Y73LlLo/maxresdefault.jpg"/>
+      <itunes:order>117</itunes:order>
+    </item>
+    <item>
+      <title>Connect Ideas with The Idea Compass and Visualize Connections with ExcaliBrain</title>
+      <link>https://www.youtube.com/watch?v=7rnsULzez-g</link>
+      <guid isPermaLink="false">7rnsULzez-g</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=7rnsULzez-g" length="0" type="video/mp4"/>
+      <pubDate>Mon, 05 Jun 2023 14:13:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/7rnsULzez-g/maxresdefault.jpg"/>
+      <itunes:order>116</itunes:order>
+    </item>
+    <item>
+      <title>The Most In-Depth BI Tools Comparison Ever Made</title>
+      <link>https://www.youtube.com/watch?v=1e6CZ16e4f8</link>
+      <guid isPermaLink="false">1e6CZ16e4f8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=1e6CZ16e4f8" length="0" type="video/mp4"/>
+      <pubDate>Sun, 04 Jun 2023 08:50:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/1e6CZ16e4f8/maxresdefault.jpg"/>
+      <itunes:order>115</itunes:order>
+    </item>
+    <item>
+      <title>Зачем нужна новая Playstation? Конец эры процессоров. Здоровье позвоночника</title>
+      <link>https://www.youtube.com/watch?v=PvL24dDn5wY</link>
+      <guid isPermaLink="false">PvL24dDn5wY</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=PvL24dDn5wY" length="0" type="video/mp4"/>
+      <pubDate>Fri, 02 Jun 2023 07:43:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/PvL24dDn5wY/maxresdefault.jpg"/>
+      <itunes:order>114</itunes:order>
+    </item>
+    <item>
+      <title>4 секрета настоящих экспертов [Veritasium]</title>
+      <link>https://www.youtube.com/watch?v=EVvw8NX8ky8</link>
+      <guid isPermaLink="false">EVvw8NX8ky8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=EVvw8NX8ky8" length="0" type="video/mp4"/>
+      <pubDate>Sun, 28 May 2023 20:25:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/EVvw8NX8ky8/maxresdefault.jpg"/>
+      <itunes:order>113</itunes:order>
+    </item>
+    <item>
+      <title>Вопросы в английском, и зачем нужен бесполезный DO | Virginia Beowulf</title>
+      <link>https://www.youtube.com/watch?v=x031OdCYCUM</link>
+      <guid isPermaLink="false">x031OdCYCUM</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=x031OdCYCUM" length="0" type="video/mp4"/>
+      <pubDate>Thu, 25 May 2023 05:52:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/x031OdCYCUM/maxresdefault.jpg"/>
+      <itunes:order>112</itunes:order>
+    </item>
+    <item>
+      <title>Rethinking MY PKM: How I Organize Everything In Obsidian</title>
+      <link>https://www.youtube.com/watch?v=nJ660t5ku9A</link>
+      <guid isPermaLink="false">nJ660t5ku9A</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=nJ660t5ku9A" length="0" type="video/mp4"/>
+      <pubDate>Sun, 21 May 2023 21:27:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/nJ660t5ku9A/maxresdefault.jpg"/>
+      <itunes:order>111</itunes:order>
+    </item>
+    <item>
+      <title>Как Game Pass мешает играм? Игровая прономания. Блогерское безумие</title>
+      <link>https://www.youtube.com/watch?v=X4TqJpkM9BE</link>
+      <guid isPermaLink="false">X4TqJpkM9BE</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=X4TqJpkM9BE" length="0" type="video/mp4"/>
+      <pubDate>Sun, 21 May 2023 07:03:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/X4TqJpkM9BE/maxresdefault.jpg"/>
+      <itunes:order>110</itunes:order>
+    </item>
+    <item>
+      <title>Digest What You Read: Walkthrough of my process for understanding Rationality by Eliezer Yudkowsky</title>
+      <link>https://www.youtube.com/watch?v=yy4b6geeQSY</link>
+      <guid isPermaLink="false">yy4b6geeQSY</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=yy4b6geeQSY" length="0" type="video/mp4"/>
+      <pubDate>Sun, 07 May 2023 19:29:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/yy4b6geeQSY/maxresdefault.jpg"/>
+      <itunes:order>109</itunes:order>
+    </item>
+    <item>
+      <title>Emergent note taking: what ants can teach us about notes</title>
+      <link>https://www.youtube.com/watch?v=-XZwcZHKnMg</link>
+      <guid isPermaLink="false">-XZwcZHKnMg</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=-XZwcZHKnMg" length="0" type="video/mp4"/>
+      <pubDate>Sat, 06 May 2023 19:24:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/-XZwcZHKnMg/maxresdefault.jpg"/>
+      <itunes:order>108</itunes:order>
+    </item>
+    <item>
+      <title>The Easiest Way To Journal Every Day</title>
+      <link>https://www.youtube.com/watch?v=xHGtMw-JFRU</link>
+      <guid isPermaLink="false">xHGtMw-JFRU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=xHGtMw-JFRU" length="0" type="video/mp4"/>
+      <pubDate>Sat, 06 May 2023 19:20:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/xHGtMw-JFRU/maxresdefault.jpg"/>
+      <itunes:order>107</itunes:order>
+    </item>
+    <item>
+      <title>The Visual Thinking Framework with Obsidian and Excalidraw: Making Visual Connections between Notes</title>
+      <link>https://www.youtube.com/watch?v=mvMQcz401yo</link>
+      <guid isPermaLink="false">mvMQcz401yo</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=mvMQcz401yo" length="0" type="video/mp4"/>
+      <pubDate>Wed, 03 May 2023 14:50:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/mvMQcz401yo/maxresdefault.jpg"/>
+      <itunes:order>106</itunes:order>
+    </item>
+    <item>
+      <title>Eye Tracking: What it teaches us about dashboard design</title>
+      <link>https://www.youtube.com/watch?v=wANoH-Pl0HI</link>
+      <guid isPermaLink="false">wANoH-Pl0HI</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=wANoH-Pl0HI" length="0" type="video/mp4"/>
+      <pubDate>Mon, 01 May 2023 10:27:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/wANoH-Pl0HI/maxresdefault.jpg"/>
+      <itunes:order>105</itunes:order>
+    </item>
+    <item>
+      <title>Разгони мозг за 45 секунд</title>
+      <link>https://www.youtube.com/watch?v=1EZwjc9cHI8</link>
+      <guid isPermaLink="false">1EZwjc9cHI8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=1EZwjc9cHI8" length="0" type="video/mp4"/>
+      <pubDate>Thu, 27 Apr 2023 15:40:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/1EZwjc9cHI8/maxresdefault.jpg"/>
+      <itunes:order>104</itunes:order>
+    </item>
+    <item>
+      <title>ИИ и данные: что реально применяется, куда смотреть бизнесу, как повысить эффективность за счёт ИИ</title>
+      <link>https://www.youtube.com/watch?v=7LzdQdME8Sc</link>
+      <guid isPermaLink="false">7LzdQdME8Sc</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=7LzdQdME8Sc" length="0" type="video/mp4"/>
+      <pubDate>Thu, 27 Apr 2023 15:12:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/7LzdQdME8Sc/maxresdefault.jpg"/>
+      <itunes:order>103</itunes:order>
+    </item>
+    <item>
+      <title>But what is the Central Limit Theorem?</title>
+      <link>https://www.youtube.com/watch?v=zeJD6dqJ5lo</link>
+      <guid isPermaLink="false">zeJD6dqJ5lo</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=zeJD6dqJ5lo" length="0" type="video/mp4"/>
+      <pubDate>Fri, 31 Mar 2023 16:57:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/zeJD6dqJ5lo/maxresdefault.jpg"/>
+      <itunes:order>102</itunes:order>
+    </item>
+    <item>
+      <title>The Ultimate Guide to File Organization: 5 Systems You Must Know</title>
+      <link>https://www.youtube.com/watch?v=WtKeeDYA_2I</link>
+      <guid isPermaLink="false">WtKeeDYA_2I</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=WtKeeDYA_2I" length="0" type="video/mp4"/>
+      <pubDate>Fri, 24 Mar 2023 18:18:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/WtKeeDYA_2I/maxresdefault.jpg"/>
+      <itunes:order>101</itunes:order>
+    </item>
+    <item>
+      <title>From Information Overload to Clarity: How Visual Thinking Can Help You Organize Your Thoughts</title>
+      <link>https://www.youtube.com/watch?v=iYCsHTO3-8w</link>
+      <guid isPermaLink="false">iYCsHTO3-8w</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=iYCsHTO3-8w" length="0" type="video/mp4"/>
+      <pubDate>Thu, 23 Mar 2023 19:28:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/iYCsHTO3-8w/maxresdefault.jpg"/>
+      <itunes:order>100</itunes:order>
+    </item>
+    <item>
+      <title>Dump, Lump, Jump: The Ultimate Visual Thinking Tool for Turning Ideas into Action</title>
+      <link>https://www.youtube.com/watch?v=tZcfupm5vKU</link>
+      <guid isPermaLink="false">tZcfupm5vKU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=tZcfupm5vKU" length="0" type="video/mp4"/>
+      <pubDate>Sat, 11 Mar 2023 16:42:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/tZcfupm5vKU/maxresdefault.jpg"/>
+      <itunes:order>99</itunes:order>
+    </item>
+    <item>
+      <title>Visualize Your Options: A Step-by-Step Guide to Using Flowcharts for Decision-Making</title>
+      <link>https://www.youtube.com/watch?v=cxjUat86Hyk</link>
+      <guid isPermaLink="false">cxjUat86Hyk</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=cxjUat86Hyk" length="0" type="video/mp4"/>
+      <pubDate>Mon, 27 Feb 2023 09:05:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/cxjUat86Hyk/maxresdefault.jpg"/>
+      <itunes:order>98</itunes:order>
+    </item>
+    <item>
+      <title>Как Microsoft похоронила Nintendo. Скайнет близко? Как бороться со стрессом?</title>
+      <link>https://www.youtube.com/watch?v=asDXm5TZ6Jc</link>
+      <guid isPermaLink="false">asDXm5TZ6Jc</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=asDXm5TZ6Jc" length="0" type="video/mp4"/>
+      <pubDate>Sun, 26 Feb 2023 10:01:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/asDXm5TZ6Jc/maxresdefault.jpg"/>
+      <itunes:order>97</itunes:order>
+    </item>
+    <item>
+      <title>How to Think Like the Engine Part 1</title>
+      <link>https://www.youtube.com/watch?v=HhqOrbX3Bls</link>
+      <guid isPermaLink="false">HhqOrbX3Bls</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=HhqOrbX3Bls" length="0" type="video/mp4"/>
+      <pubDate>Sun, 19 Feb 2023 19:44:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/HhqOrbX3Bls/maxresdefault.jpg"/>
+      <itunes:order>96</itunes:order>
+    </item>
+    <item>
+      <title>Sony крушит Microsoft. Обман Фила Спенсера. Нейросеть подставила Google</title>
+      <link>https://www.youtube.com/watch?v=3XtMX3FH_f4</link>
+      <guid isPermaLink="false">3XtMX3FH_f4</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=3XtMX3FH_f4" length="0" type="video/mp4"/>
+      <pubDate>Sat, 18 Feb 2023 08:51:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/3XtMX3FH_f4/maxresdefault.jpg"/>
+      <itunes:order>95</itunes:order>
+    </item>
+    <item>
+      <title>Stop Procrastinating With Note-Taking Apps Like Obsidian, Roam, Logseq</title>
+      <link>https://www.youtube.com/watch?v=baKCC2uTbRc</link>
+      <guid isPermaLink="false">baKCC2uTbRc</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=baKCC2uTbRc" length="0" type="video/mp4"/>
+      <pubDate>Wed, 15 Feb 2023 18:30:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/baKCC2uTbRc/maxresdefault.jpg"/>
+      <itunes:order>94</itunes:order>
+    </item>
+    <item>
+      <title>How many verb tenses are there in English? - Anna Ananichuk</title>
+      <link>https://www.youtube.com/watch?v=54prMaPn5Ls</link>
+      <guid isPermaLink="false">54prMaPn5Ls</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=54prMaPn5Ls" length="0" type="video/mp4"/>
+      <pubDate>Tue, 14 Feb 2023 11:10:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/54prMaPn5Ls/maxresdefault.jpg"/>
+      <itunes:order>93</itunes:order>
+    </item>
+    <item>
+      <title>(PART 2 - Daily Template) Daily Notes First - Building out a PKM system in Obsidian.md</title>
+      <link>https://www.youtube.com/watch?v=txTRBNpaiSk</link>
+      <guid isPermaLink="false">txTRBNpaiSk</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=txTRBNpaiSk" length="0" type="video/mp4"/>
+      <pubDate>Wed, 08 Feb 2023 07:02:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/txTRBNpaiSk/maxresdefault.jpg"/>
+      <itunes:order>92</itunes:order>
+    </item>
+    <item>
+      <title>Unlock Your Creativity with Visualization: The Power of Spatial Thinking</title>
+      <link>https://www.youtube.com/watch?v=oRMh-5S0zoE</link>
+      <guid isPermaLink="false">oRMh-5S0zoE</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=oRMh-5S0zoE" length="0" type="video/mp4"/>
+      <pubDate>Tue, 07 Feb 2023 17:54:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/oRMh-5S0zoE/maxresdefault.jpg"/>
+      <itunes:order>91</itunes:order>
+    </item>
+    <item>
+      <title>Справочная информация организация документов и статей для саморазвития</title>
+      <link>https://www.youtube.com/watch?v=Kd0GLCSYVDc</link>
+      <guid isPermaLink="false">Kd0GLCSYVDc</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Kd0GLCSYVDc" length="0" type="video/mp4"/>
+      <pubDate>Mon, 06 Feb 2023 19:28:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Kd0GLCSYVDc/maxresdefault.jpg"/>
+      <itunes:order>90</itunes:order>
+    </item>
+    <item>
+      <title>Video 7.4: Distinguishing Tense, Mood, Aspect and Voice</title>
+      <link>https://www.youtube.com/watch?v=hvVMnlVuo9c</link>
+      <guid isPermaLink="false">hvVMnlVuo9c</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=hvVMnlVuo9c" length="0" type="video/mp4"/>
+      <pubDate>Mon, 06 Feb 2023 09:06:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/hvVMnlVuo9c/maxresdefault.jpg"/>
+      <itunes:order>89</itunes:order>
+    </item>
+    <item>
+      <title>Tense vs. Time</title>
+      <link>https://www.youtube.com/watch?v=ViotAaOUR8M</link>
+      <guid isPermaLink="false">ViotAaOUR8M</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=ViotAaOUR8M" length="0" type="video/mp4"/>
+      <pubDate>Fri, 03 Feb 2023 13:29:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/ViotAaOUR8M/maxresdefault.jpg"/>
+      <itunes:order>88</itunes:order>
+    </item>
+    <item>
+      <title>Tense, Aspect and Mood</title>
+      <link>https://www.youtube.com/watch?v=QLADCI9aaYU</link>
+      <guid isPermaLink="false">QLADCI9aaYU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=QLADCI9aaYU" length="0" type="video/mp4"/>
+      <pubDate>Fri, 03 Feb 2023 12:50:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/QLADCI9aaYU/maxresdefault.jpg"/>
+      <itunes:order>87</itunes:order>
+    </item>
+    <item>
+      <title>Много книг, статей и курсов, отложенных на потом. Что делать?</title>
+      <link>https://www.youtube.com/watch?v=XBE_8rFBwC0</link>
+      <guid isPermaLink="false">XBE_8rFBwC0</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=XBE_8rFBwC0" length="0" type="video/mp4"/>
+      <pubDate>Wed, 01 Feb 2023 13:07:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/XBE_8rFBwC0/maxresdefault.jpg"/>
+      <itunes:order>85</itunes:order>
+    </item>
+    <item>
+      <title>10 ошибок мышления, с помощью которых нами манипулируют</title>
+      <link>https://www.youtube.com/watch?v=vQ-od30-3BM</link>
+      <guid isPermaLink="false">vQ-od30-3BM</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=vQ-od30-3BM" length="0" type="video/mp4"/>
+      <pubDate>Tue, 31 Jan 2023 13:58:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/vQ-od30-3BM/maxresdefault.jpg"/>
+      <itunes:order>84</itunes:order>
+    </item>
+    <item>
+      <title>ЗАБОЛЕВАНИЯ ГЕЙМЕРОВ и как их избежать: От глаз до поясницы и мышиного дерматита</title>
+      <link>https://www.youtube.com/watch?v=ZdvBPXnlE8k</link>
+      <guid isPermaLink="false">ZdvBPXnlE8k</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=ZdvBPXnlE8k" length="0" type="video/mp4"/>
+      <pubDate>Tue, 31 Jan 2023 13:01:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/ZdvBPXnlE8k/maxresdefault.jpg"/>
+      <itunes:order>83</itunes:order>
+    </item>
+    <item>
+      <title>Что такое обучение или почему это не про лекции (джедайские техники и обучение)</title>
+      <link>https://www.youtube.com/watch?v=i4okX10BN-E</link>
+      <guid isPermaLink="false">i4okX10BN-E</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=i4okX10BN-E" length="0" type="video/mp4"/>
+      <pubDate>Fri, 27 Jan 2023 07:40:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/i4okX10BN-E/maxresdefault.jpg"/>
+      <itunes:order>82</itunes:order>
+    </item>
+    <item>
+      <title>Книги про мозг, которые надо прочитать в 2023!</title>
+      <link>https://www.youtube.com/watch?v=N8Sh_SyQE-s</link>
+      <guid isPermaLink="false">N8Sh_SyQE-s</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=N8Sh_SyQE-s" length="0" type="video/mp4"/>
+      <pubDate>Fri, 20 Jan 2023 17:52:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/N8Sh_SyQE-s/maxresdefault.jpg"/>
+      <itunes:order>81</itunes:order>
+    </item>
+    <item>
+      <title>Инструмент "Скелет недели" -  Возможности и ошибки</title>
+      <link>https://www.youtube.com/watch?v=h5aJD2Veg34</link>
+      <guid isPermaLink="false">h5aJD2Veg34</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=h5aJD2Veg34" length="0" type="video/mp4"/>
+      <pubDate>Thu, 19 Jan 2023 12:52:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/h5aJD2Veg34/maxresdefault.jpg"/>
+      <itunes:order>79</itunes:order>
+    </item>
+    <item>
+      <title>How I Make Myself Study When I’m Lazy (it's not discipline)</title>
+      <link>https://www.youtube.com/watch?v=SqOTG3n5sbI</link>
+      <guid isPermaLink="false">SqOTG3n5sbI</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=SqOTG3n5sbI" length="0" type="video/mp4"/>
+      <pubDate>Tue, 17 Jan 2023 12:35:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/SqOTG3n5sbI/maxresdefault.jpg"/>
+      <itunes:order>78</itunes:order>
+    </item>
+    <item>
+      <title>Have a big dream? Make it small.</title>
+      <link>https://www.youtube.com/watch?v=cHKbmCIR04c</link>
+      <guid isPermaLink="false">cHKbmCIR04c</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=cHKbmCIR04c" length="0" type="video/mp4"/>
+      <pubDate>Mon, 16 Jan 2023 14:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/cHKbmCIR04c/maxresdefault.jpg"/>
+      <itunes:order>77</itunes:order>
+    </item>
+    <item>
+      <title>Как построить эффективную систему управления корпоративными знаниями? / Марина Корсакова (МИРБИС)</title>
+      <link>https://www.youtube.com/watch?v=CvQExvbH7R4</link>
+      <guid isPermaLink="false">CvQExvbH7R4</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=CvQExvbH7R4" length="0" type="video/mp4"/>
+      <pubDate>Tue, 10 Jan 2023 16:20:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/CvQExvbH7R4/maxresdefault.jpg"/>
+      <itunes:order>76</itunes:order>
+    </item>
+    <item>
+      <title>How To Take Smart Notes (3 methods no one's talking about)</title>
+      <link>https://www.youtube.com/watch?v=5O46Rqh5zHE</link>
+      <guid isPermaLink="false">5O46Rqh5zHE</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=5O46Rqh5zHE" length="0" type="video/mp4"/>
+      <pubDate>Tue, 27 Dec 2022 07:32:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/5O46Rqh5zHE/maxresdefault.jpg"/>
+      <itunes:order>75</itunes:order>
+    </item>
+    <item>
+      <title>The Perfect Mindmap: 6 Step Checklist</title>
+      <link>https://www.youtube.com/watch?v=5zT_2aBP6vM</link>
+      <guid isPermaLink="false">5zT_2aBP6vM</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=5zT_2aBP6vM" length="0" type="video/mp4"/>
+      <pubDate>Tue, 27 Dec 2022 06:55:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/5zT_2aBP6vM/maxresdefault.jpg"/>
+      <itunes:order>74</itunes:order>
+    </item>
+    <item>
+      <title>Neil Gaiman — The Interview I've Waited 20 Years To Do  | The Tim Ferriss Show</title>
+      <link>https://www.youtube.com/watch?v=iHPKTby9z6o</link>
+      <guid isPermaLink="false">iHPKTby9z6o</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=iHPKTby9z6o" length="0" type="video/mp4"/>
+      <pubDate>Sun, 18 Dec 2022 16:15:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/iHPKTby9z6o/maxresdefault.jpg"/>
+      <itunes:order>73</itunes:order>
+    </item>
+    <item>
+      <title>How I Turned My Life Into A Video Game Part 2</title>
+      <link>https://www.youtube.com/watch?v=9awm1tO6UrA</link>
+      <guid isPermaLink="false">9awm1tO6UrA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=9awm1tO6UrA" length="0" type="video/mp4"/>
+      <pubDate>Tue, 13 Dec 2022 21:34:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/9awm1tO6UrA/maxresdefault.jpg"/>
+      <itunes:order>72</itunes:order>
+    </item>
+    <item>
+      <title>The 5 Questions that Changed My Life</title>
+      <link>https://www.youtube.com/watch?v=LuJII6jZEcw</link>
+      <guid isPermaLink="false">LuJII6jZEcw</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=LuJII6jZEcw" length="0" type="video/mp4"/>
+      <pubDate>Sun, 11 Dec 2022 18:15:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/LuJII6jZEcw/maxresdefault.jpg"/>
+      <itunes:order>71</itunes:order>
+    </item>
+    <item>
+      <title>The Best Method For Taking Lecture Notes In Obsidian</title>
+      <link>https://www.youtube.com/watch?v=PuqGjNJMiZQ</link>
+      <guid isPermaLink="false">PuqGjNJMiZQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=PuqGjNJMiZQ" length="0" type="video/mp4"/>
+      <pubDate>Sat, 10 Dec 2022 19:50:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/PuqGjNJMiZQ/maxresdefault.jpg"/>
+      <itunes:order>70</itunes:order>
+    </item>
+    <item>
+      <title>Lets Learn Obsidian.md - Installation and First Notes</title>
+      <link>https://www.youtube.com/watch?v=fkvAS0QmXEg</link>
+      <guid isPermaLink="false">fkvAS0QmXEg</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=fkvAS0QmXEg" length="0" type="video/mp4"/>
+      <pubDate>Sun, 04 Dec 2022 20:45:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/fkvAS0QmXEg/maxresdefault.jpg"/>
+      <itunes:order>69</itunes:order>
+    </item>
+    <item>
+      <title>Когда выйдет Playstation 6? Ведьмак 3 - детали некстген-версии. Как просыпаться бодрым?</title>
+      <link>https://www.youtube.com/watch?v=xKl4DcjSRhY</link>
+      <guid isPermaLink="false">xKl4DcjSRhY</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=xKl4DcjSRhY" length="0" type="video/mp4"/>
+      <pubDate>Thu, 01 Dec 2022 18:10:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/xKl4DcjSRhY/maxresdefault.jpg"/>
+      <itunes:order>68</itunes:order>
+    </item>
+    <item>
+      <title>Как развить привычку БЕЗ мотивации?</title>
+      <link>https://www.youtube.com/watch?v=oDngX_iwt2I</link>
+      <guid isPermaLink="false">oDngX_iwt2I</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=oDngX_iwt2I" length="0" type="video/mp4"/>
+      <pubDate>Tue, 22 Nov 2022 13:21:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/oDngX_iwt2I/maxresdefault.jpg"/>
+      <itunes:order>67</itunes:order>
+    </item>
+    <item>
+      <title>Notion-like content calendar in Obsidian // Obsidian Projects plugin</title>
+      <link>https://www.youtube.com/watch?v=ny8lksaQ5A8</link>
+      <guid isPermaLink="false">ny8lksaQ5A8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=ny8lksaQ5A8" length="0" type="video/mp4"/>
+      <pubDate>Sun, 20 Nov 2022 20:28:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/ny8lksaQ5A8/maxresdefault.jpg"/>
+      <itunes:order>66</itunes:order>
+    </item>
+    <item>
+      <title>Life Pillars in Notion — Aligning Pillars, Goals, Projects &amp; Tasks (Life OS)</title>
+      <link>https://www.youtube.com/watch?v=5YPlLuIPORc</link>
+      <guid isPermaLink="false">5YPlLuIPORc</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=5YPlLuIPORc" length="0" type="video/mp4"/>
+      <pubDate>Fri, 18 Nov 2022 19:47:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/5YPlLuIPORc/maxresdefault.jpg"/>
+      <itunes:order>65</itunes:order>
+    </item>
+    <item>
+      <title>How I Can Study 10h a Day: The Perfect Schedule for Chaotic People</title>
+      <link>https://www.youtube.com/watch?v=v8EaeKusFvA</link>
+      <guid isPermaLink="false">v8EaeKusFvA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=v8EaeKusFvA" length="0" type="video/mp4"/>
+      <pubDate>Tue, 08 Nov 2022 12:17:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/v8EaeKusFvA/maxresdefault.jpg"/>
+      <itunes:order>64</itunes:order>
+    </item>
+    <item>
+      <title>ПРОДУКТИВНАЯ РАБОТА • КНИГА В РАБОТУ С ГОЛОВОЙ • DEEP WORK</title>
+      <link>https://www.youtube.com/watch?v=2AomZ7839pI</link>
+      <guid isPermaLink="false">2AomZ7839pI</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=2AomZ7839pI" length="0" type="video/mp4"/>
+      <pubDate>Tue, 08 Nov 2022 11:44:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/2AomZ7839pI/maxresdefault.jpg"/>
+      <itunes:order>63</itunes:order>
+    </item>
+    <item>
+      <title>Мои любимые бюджетные игры</title>
+      <link>https://www.youtube.com/watch?v=ArR2oDAB8nA</link>
+      <guid isPermaLink="false">ArR2oDAB8nA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=ArR2oDAB8nA" length="0" type="video/mp4"/>
+      <pubDate>Mon, 07 Nov 2022 21:14:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/ArR2oDAB8nA/maxresdefault.jpg"/>
+      <itunes:order>62</itunes:order>
+    </item>
+    <item>
+      <title>Как выгодно описать достижения в резюме │Продающее резюме</title>
+      <link>https://www.youtube.com/watch?v=Q5C3WS8T_Ao</link>
+      <guid isPermaLink="false">Q5C3WS8T_Ao</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Q5C3WS8T_Ao" length="0" type="video/mp4"/>
+      <pubDate>Sat, 08 Oct 2022 17:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Q5C3WS8T_Ao/maxresdefault.jpg"/>
+      <itunes:order>61</itunes:order>
+    </item>
+    <item>
+      <title>Как отличить ТЫ от ВЫ в английском #shorts | Virginia Beowulf</title>
+      <link>https://www.youtube.com/watch?v=KdSFWzU0h6Q</link>
+      <guid isPermaLink="false">KdSFWzU0h6Q</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=KdSFWzU0h6Q" length="0" type="video/mp4"/>
+      <pubDate>Tue, 04 Oct 2022 21:36:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/KdSFWzU0h6Q/maxresdefault.jpg"/>
+      <itunes:order>60</itunes:order>
+    </item>
+    <item>
+      <title>Effective Flashcard Writing: Decomposing half a chapter of Thinking, Fast and Slow</title>
+      <link>https://www.youtube.com/watch?v=YTVkseFNb2M</link>
+      <guid isPermaLink="false">YTVkseFNb2M</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=YTVkseFNb2M" length="0" type="video/mp4"/>
+      <pubDate>Sat, 17 Sep 2022 07:40:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/YTVkseFNb2M/maxresdefault.jpg"/>
+      <itunes:order>59</itunes:order>
+    </item>
+    <item>
+      <title>Best marketing strategy ever! Steve Jobs Think different / Crazy ones speech (with real subtitles)</title>
+      <link>https://www.youtube.com/watch?v=keCwRdbwNQY</link>
+      <guid isPermaLink="false">keCwRdbwNQY</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=keCwRdbwNQY" length="0" type="video/mp4"/>
+      <pubDate>Fri, 26 Aug 2022 13:34:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/keCwRdbwNQY/maxresdefault.jpg"/>
+      <itunes:order>58</itunes:order>
+    </item>
+    <item>
+      <title>17 tips to level-up in Logseq</title>
+      <link>https://www.youtube.com/watch?v=Fnxq3iITAJk</link>
+      <guid isPermaLink="false">Fnxq3iITAJk</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Fnxq3iITAJk" length="0" type="video/mp4"/>
+      <pubDate>Tue, 16 Aug 2022 06:26:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Fnxq3iITAJk/maxresdefault.jpg"/>
+      <itunes:order>57</itunes:order>
+    </item>
+    <item>
+      <title>A portfolio approach to $10,000/hr work</title>
+      <link>https://www.youtube.com/watch?v=7xr_Dqls3P8</link>
+      <guid isPermaLink="false">7xr_Dqls3P8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=7xr_Dqls3P8" length="0" type="video/mp4"/>
+      <pubDate>Sat, 13 Aug 2022 08:32:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/7xr_Dqls3P8/maxresdefault.jpg"/>
+      <itunes:order>56</itunes:order>
+    </item>
+    <item>
+      <title>Как Вернуться из Застоя (Дофаминовое Голодание)</title>
+      <link>https://www.youtube.com/watch?v=Lar-zjI3CTM</link>
+      <guid isPermaLink="false">Lar-zjI3CTM</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Lar-zjI3CTM" length="0" type="video/mp4"/>
+      <pubDate>Thu, 11 Aug 2022 21:52:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Lar-zjI3CTM/maxresdefault.jpg"/>
+      <itunes:order>55</itunes:order>
+    </item>
+    <item>
+      <title>Как БЫСТРО снять стресс и успокоиться (всего 2 минуты!)</title>
+      <link>https://www.youtube.com/watch?v=Lcd-rCktwDg</link>
+      <guid isPermaLink="false">Lcd-rCktwDg</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Lcd-rCktwDg" length="0" type="video/mp4"/>
+      <pubDate>Tue, 02 Aug 2022 14:45:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Lcd-rCktwDg/maxresdefault.jpg"/>
+      <itunes:order>54</itunes:order>
+    </item>
+    <item>
+      <title>Управлять эмоциями ЛЕГКО (лайфхак психологов)</title>
+      <link>https://www.youtube.com/watch?v=w970Nla0ZIc</link>
+      <guid isPermaLink="false">w970Nla0ZIc</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=w970Nla0ZIc" length="0" type="video/mp4"/>
+      <pubDate>Tue, 02 Aug 2022 14:43:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/w970Nla0ZIc/maxresdefault.jpg"/>
+      <itunes:order>53</itunes:order>
+    </item>
+    <item>
+      <title>Sibur Digital Community Digital-конференция "Визуализация данных" День 3. 28.04.2022</title>
+      <link>https://www.youtube.com/watch?v=6bZe5lYTfp4</link>
+      <guid isPermaLink="false">6bZe5lYTfp4</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=6bZe5lYTfp4" length="0" type="video/mp4"/>
+      <pubDate>Sat, 30 Jul 2022 11:20:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/6bZe5lYTfp4/maxresdefault.jpg"/>
+      <itunes:order>52</itunes:order>
+    </item>
+    <item>
+      <title>[Queries Learning Sprint] Week 2: Simple queries — Understanding Logseq’s outline logic and searchin</title>
+      <link>https://www.youtube.com/watch?v=tKE6-jvY_QU</link>
+      <guid isPermaLink="false">tKE6-jvY_QU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=tKE6-jvY_QU" length="0" type="video/mp4"/>
+      <pubDate>Fri, 29 Jul 2022 11:41:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/tKE6-jvY_QU/maxresdefault.jpg"/>
+      <itunes:order>51</itunes:order>
+    </item>
+    <item>
+      <title>Inside the Mind of a Master Procrastinator | Tim Urban | TED</title>
+      <link>https://www.youtube.com/watch?v=arj7oStGLkU</link>
+      <guid isPermaLink="false">arj7oStGLkU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=arj7oStGLkU" length="0" type="video/mp4"/>
+      <pubDate>Thu, 21 Jul 2022 11:37:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/arj7oStGLkU/maxresdefault.jpg"/>
+      <itunes:order>50</itunes:order>
+    </item>
+    <item>
+      <title>Part 1 Building a Second Brain Book on a Page</title>
+      <link>https://www.youtube.com/watch?v=3i4CiImIYYA</link>
+      <guid isPermaLink="false">3i4CiImIYYA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=3i4CiImIYYA" length="0" type="video/mp4"/>
+      <pubDate>Thu, 21 Jul 2022 10:58:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/3i4CiImIYYA/maxresdefault.jpg"/>
+      <itunes:order>49</itunes:order>
+    </item>
+    <item>
+      <title>Let’s BUILD a COMPUTER in CONWAY's GAME of LIFE ⠠⠵</title>
+      <link>https://www.youtube.com/watch?v=Kk2MH9O4pXY</link>
+      <guid isPermaLink="false">Kk2MH9O4pXY</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Kk2MH9O4pXY" length="0" type="video/mp4"/>
+      <pubDate>Mon, 18 Jul 2022 07:29:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Kk2MH9O4pXY/maxresdefault.jpg"/>
+      <itunes:order>48</itunes:order>
+    </item>
+    <item>
+      <title>[Queries Learning Sprint] Week 1: How to design and run personal learning projects with Logseq</title>
+      <link>https://www.youtube.com/watch?v=o-dcdKdSpUo</link>
+      <guid isPermaLink="false">o-dcdKdSpUo</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=o-dcdKdSpUo" length="0" type="video/mp4"/>
+      <pubDate>Wed, 13 Jul 2022 14:14:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/o-dcdKdSpUo/maxresdefault.jpg"/>
+      <itunes:order>47</itunes:order>
+    </item>
+    <item>
+      <title>Intro (Ch 1), Visualization Analysis &amp; Design, 2021</title>
+      <link>https://www.youtube.com/watch?v=1GhZisgc6DI</link>
+      <guid isPermaLink="false">1GhZisgc6DI</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=1GhZisgc6DI" length="0" type="video/mp4"/>
+      <pubDate>Sun, 10 Jul 2022 07:51:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/1GhZisgc6DI/maxresdefault.jpg"/>
+      <itunes:order>45</itunes:order>
+    </item>
+    <item>
+      <title>Вебинар «Аналитик данных: кто это и подходит ли вам эта профессия»</title>
+      <link>https://www.youtube.com/watch?v=l2DF_0pMZw8</link>
+      <guid isPermaLink="false">l2DF_0pMZw8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=l2DF_0pMZw8" length="0" type="video/mp4"/>
+      <pubDate>Sat, 09 Jul 2022 10:05:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/l2DF_0pMZw8/maxresdefault.jpg"/>
+      <itunes:order>44</itunes:order>
+    </item>
+    <item>
+      <title>Inside Ali Abdaal's Second Brain System</title>
+      <link>https://www.youtube.com/watch?v=-Y_6U0FoqDk</link>
+      <guid isPermaLink="false">-Y_6U0FoqDk</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=-Y_6U0FoqDk" length="0" type="video/mp4"/>
+      <pubDate>Wed, 06 Jul 2022 20:43:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/-Y_6U0FoqDk/maxresdefault.jpg"/>
+      <itunes:order>43</itunes:order>
+    </item>
+    <item>
+      <title>Are you investable? Here's why people don't mentor you</title>
+      <link>https://www.youtube.com/watch?v=Rufif247scI</link>
+      <guid isPermaLink="false">Rufif247scI</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Rufif247scI" length="0" type="video/mp4"/>
+      <pubDate>Mon, 04 Jul 2022 18:39:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Rufif247scI/maxresdefault.jpg"/>
+      <itunes:order>42</itunes:order>
+    </item>
+    <item>
+      <title>The Dataviz Mindset · Moritz Stefaner · On Data And Design</title>
+      <link>https://www.youtube.com/watch?v=6NNUjMEvx1Q</link>
+      <guid isPermaLink="false">6NNUjMEvx1Q</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=6NNUjMEvx1Q" length="0" type="video/mp4"/>
+      <pubDate>Mon, 04 Jul 2022 07:15:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/6NNUjMEvx1Q/maxresdefault.jpg"/>
+      <itunes:order>41</itunes:order>
+    </item>
+    <item>
+      <title>Is This Microsoft Excel?! Financial Statistics Dashboards System | Tutorial 1</title>
+      <link>https://www.youtube.com/watch?v=z26zbiGJnd4</link>
+      <guid isPermaLink="false">z26zbiGJnd4</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=z26zbiGJnd4" length="0" type="video/mp4"/>
+      <pubDate>Tue, 28 Jun 2022 14:29:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/z26zbiGJnd4/maxresdefault.jpg"/>
+      <itunes:order>40</itunes:order>
+    </item>
+    <item>
+      <title>What Even is Meditation?</title>
+      <link>https://www.youtube.com/watch?v=dvq48pfJa9w</link>
+      <guid isPermaLink="false">dvq48pfJa9w</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=dvq48pfJa9w" length="0" type="video/mp4"/>
+      <pubDate>Sat, 25 Jun 2022 17:33:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/dvq48pfJa9w/maxresdefault.jpg"/>
+      <itunes:order>39</itunes:order>
+    </item>
+    <item>
+      <title>Техники борьбы с прокрастинацией, вебинар Максима Дорофеева</title>
+      <link>https://www.youtube.com/watch?v=Uc75PYSYPpI</link>
+      <guid isPermaLink="false">Uc75PYSYPpI</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Uc75PYSYPpI" length="0" type="video/mp4"/>
+      <pubDate>Tue, 14 Jun 2022 08:31:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Uc75PYSYPpI/maxresdefault.jpg"/>
+      <itunes:order>38</itunes:order>
+    </item>
+    <item>
+      <title>0041. Упрощение системы заметок</title>
+      <link>https://www.youtube.com/watch?v=iDVJhL-men4</link>
+      <guid isPermaLink="false">iDVJhL-men4</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=iDVJhL-men4" length="0" type="video/mp4"/>
+      <pubDate>Mon, 13 Jun 2022 20:20:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/iDVJhL-men4/maxresdefault.jpg"/>
+      <itunes:order>37</itunes:order>
+    </item>
+    <item>
+      <title>Visual map of content in Obsidian // Excalidraw plugin</title>
+      <link>https://www.youtube.com/watch?v=erKrXsIwbAg</link>
+      <guid isPermaLink="false">erKrXsIwbAg</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=erKrXsIwbAg" length="0" type="video/mp4"/>
+      <pubDate>Fri, 10 Jun 2022 16:46:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/erKrXsIwbAg/maxresdefault.jpg"/>
+      <itunes:order>36</itunes:order>
+    </item>
+    <item>
+      <title>How to create a sketchnote summary of a book with Excalidraw + Obsidian + Progressive Summarization</title>
+      <link>https://www.youtube.com/watch?v=n3dbH2c3l0M</link>
+      <guid isPermaLink="false">n3dbH2c3l0M</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=n3dbH2c3l0M" length="0" type="video/mp4"/>
+      <pubDate>Thu, 19 May 2022 19:43:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/n3dbH2c3l0M/maxresdefault.jpg"/>
+      <itunes:order>35</itunes:order>
+    </item>
+    <item>
+      <title>Митап «Трудоустройство инженеров данных за рубежом»</title>
+      <link>https://www.youtube.com/watch?v=EUxDZZpaKZY</link>
+      <guid isPermaLink="false">EUxDZZpaKZY</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=EUxDZZpaKZY" length="0" type="video/mp4"/>
+      <pubDate>Tue, 17 May 2022 11:51:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/EUxDZZpaKZY/maxresdefault.jpg"/>
+      <itunes:order>34</itunes:order>
+    </item>
+    <item>
+      <title>Obsidian Plugins that I use every day</title>
+      <link>https://www.youtube.com/watch?v=T4FkL7-gEew</link>
+      <guid isPermaLink="false">T4FkL7-gEew</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=T4FkL7-gEew" length="0" type="video/mp4"/>
+      <pubDate>Tue, 17 May 2022 08:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/T4FkL7-gEew/maxresdefault.jpg"/>
+      <itunes:order>33</itunes:order>
+    </item>
+    <item>
+      <title>Владимир Спиридонов | Как мыслить критически и ориентироваться в информационной повестке</title>
+      <link>https://www.youtube.com/watch?v=aDUuoOAwbTc</link>
+      <guid isPermaLink="false">aDUuoOAwbTc</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=aDUuoOAwbTc" length="0" type="video/mp4"/>
+      <pubDate>Sun, 15 May 2022 09:48:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/aDUuoOAwbTc/maxresdefault.jpg"/>
+      <itunes:order>32</itunes:order>
+    </item>
+    <item>
+      <title>Как стать автономно мотивированным?</title>
+      <link>https://www.youtube.com/watch?v=hRr1mm3DmPU</link>
+      <guid isPermaLink="false">hRr1mm3DmPU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=hRr1mm3DmPU" length="0" type="video/mp4"/>
+      <pubDate>Thu, 12 May 2022 17:11:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/hRr1mm3DmPU/maxresdefault.jpg"/>
+      <itunes:order>31</itunes:order>
+    </item>
+    <item>
+      <title>Unblock Your Thinking &amp; Get Back To [[Linking]] With ABC Lists!</title>
+      <link>https://www.youtube.com/watch?v=pahwCFq8eaw</link>
+      <guid isPermaLink="false">pahwCFq8eaw</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=pahwCFq8eaw" length="0" type="video/mp4"/>
+      <pubDate>Sun, 01 May 2022 08:06:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/pahwCFq8eaw/maxresdefault.jpg"/>
+      <itunes:order>30</itunes:order>
+    </item>
+    <item>
+      <title>4 ways to improve your English speaking... ALONE #athome!</title>
+      <link>https://www.youtube.com/watch?v=N0qEHuyTTp8</link>
+      <guid isPermaLink="false">N0qEHuyTTp8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=N0qEHuyTTp8" length="0" type="video/mp4"/>
+      <pubDate>Mon, 18 Apr 2022 19:35:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/N0qEHuyTTp8/maxresdefault.jpg"/>
+      <itunes:order>29</itunes:order>
+    </item>
+    <item>
+      <title>Beginner's Guide to the Daily Page in Obsidian</title>
+      <link>https://www.youtube.com/watch?v=5dyv2xOfgNs</link>
+      <guid isPermaLink="false">5dyv2xOfgNs</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=5dyv2xOfgNs" length="0" type="video/mp4"/>
+      <pubDate>Wed, 30 Mar 2022 11:45:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/5dyv2xOfgNs/maxresdefault.jpg"/>
+      <itunes:order>28</itunes:order>
+    </item>
+    <item>
+      <title>ТАЙМ-МЕНЕДЖМЕНТ: ОГРОМНАЯ ошибка, которую КАЖДЫЙ из вас делает!</title>
+      <link>https://www.youtube.com/watch?v=JUj2DyOTTmg</link>
+      <guid isPermaLink="false">JUj2DyOTTmg</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=JUj2DyOTTmg" length="0" type="video/mp4"/>
+      <pubDate>Fri, 18 Feb 2022 16:01:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/JUj2DyOTTmg/maxresdefault.jpg"/>
+      <itunes:order>27</itunes:order>
+    </item>
+    <item>
+      <title>Obsidian vs Notion for Knowledge Management? With Life OS</title>
+      <link>https://www.youtube.com/watch?v=GPxg4osmji8</link>
+      <guid isPermaLink="false">GPxg4osmji8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=GPxg4osmji8" length="0" type="video/mp4"/>
+      <pubDate>Tue, 15 Feb 2022 10:56:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/GPxg4osmji8/maxresdefault.jpg"/>
+      <itunes:order>26</itunes:order>
+    </item>
+    <item>
+      <title>Ты ведёшь конспект НЕПРАВИЛЬНО! Вот как надо</title>
+      <link>https://www.youtube.com/watch?v=uDyYIkDH-r0</link>
+      <guid isPermaLink="false">uDyYIkDH-r0</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=uDyYIkDH-r0" length="0" type="video/mp4"/>
+      <pubDate>Tue, 15 Feb 2022 10:49:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/uDyYIkDH-r0/maxresdefault.jpg"/>
+      <itunes:order>25</itunes:order>
+    </item>
+    <item>
+      <title>Voiceliner App - Quick Capture Tool that works with Obsidian &amp; Logseq</title>
+      <link>https://www.youtube.com/watch?v=VO9AD438czU</link>
+      <guid isPermaLink="false">VO9AD438czU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=VO9AD438czU" length="0" type="video/mp4"/>
+      <pubDate>Mon, 14 Feb 2022 07:16:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/VO9AD438czU/maxresdefault.jpg"/>
+      <itunes:order>24</itunes:order>
+    </item>
+    <item>
+      <title>Edu: Почему так трудно избавиться от бедности?</title>
+      <link>https://www.youtube.com/watch?v=G5xOCGycq-w</link>
+      <guid isPermaLink="false">G5xOCGycq-w</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=G5xOCGycq-w" length="0" type="video/mp4"/>
+      <pubDate>Thu, 03 Feb 2022 15:36:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/G5xOCGycq-w/maxresdefault.jpg"/>
+      <itunes:order>23</itunes:order>
+    </item>
+    <item>
+      <title>How to turn your notes into published articles and books using the Obsidian app with Eleanor Konik</title>
+      <link>https://www.youtube.com/watch?v=nO5N_x2so0g</link>
+      <guid isPermaLink="false">nO5N_x2so0g</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=nO5N_x2so0g" length="0" type="video/mp4"/>
+      <pubDate>Tue, 01 Feb 2022 20:44:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/nO5N_x2so0g/maxresdefault.jpg"/>
+      <itunes:order>22</itunes:order>
+    </item>
+    <item>
+      <title>Как создать Привычки ? 3 Идеи, Которые Изменят Твою Жизнь из книги «Атомные Привычки» Джеймса Клира</title>
+      <link>https://www.youtube.com/watch?v=2ISqnGq-GsI</link>
+      <guid isPermaLink="false">2ISqnGq-GsI</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=2ISqnGq-GsI" length="0" type="video/mp4"/>
+      <pubDate>Wed, 19 Jan 2022 19:22:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/2ISqnGq-GsI/maxresdefault.jpg"/>
+      <itunes:order>21</itunes:order>
+    </item>
+    <item>
+      <title>Полезные привычки, вредные привычки - 8 неизбитых подходов!</title>
+      <link>https://www.youtube.com/watch?v=36XlzsrvLk8</link>
+      <guid isPermaLink="false">36XlzsrvLk8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=36XlzsrvLk8" length="0" type="video/mp4"/>
+      <pubDate>Wed, 19 Jan 2022 19:20:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/36XlzsrvLk8/maxresdefault.jpg"/>
+      <itunes:order>20</itunes:order>
+    </item>
+    <item>
+      <title>Как читать больше книг в 2019? Сколько читают успешные люди?</title>
+      <link>https://www.youtube.com/watch?v=EYlVQd7FdXs</link>
+      <guid isPermaLink="false">EYlVQd7FdXs</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=EYlVQd7FdXs" length="0" type="video/mp4"/>
+      <pubDate>Wed, 12 Jan 2022 20:23:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/EYlVQd7FdXs/maxresdefault.jpg"/>
+      <itunes:order>19</itunes:order>
+    </item>
+    <item>
+      <title>Как не стать жертвой манипуляции данных?</title>
+      <link>https://www.youtube.com/watch?v=sXX0IuaeKnU</link>
+      <guid isPermaLink="false">sXX0IuaeKnU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=sXX0IuaeKnU" length="0" type="video/mp4"/>
+      <pubDate>Wed, 12 Jan 2022 13:03:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/sXX0IuaeKnU/maxresdefault.jpg"/>
+      <itunes:order>18</itunes:order>
+    </item>
+    <item>
+      <title>Как Максимально Сфокусироваться На Работе - 3 Шага, Которые Упускает Большинство</title>
+      <link>https://www.youtube.com/watch?v=VwnQbeluV3Q</link>
+      <guid isPermaLink="false">VwnQbeluV3Q</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=VwnQbeluV3Q" length="0" type="video/mp4"/>
+      <pubDate>Wed, 22 Dec 2021 20:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/VwnQbeluV3Q/maxresdefault.jpg"/>
+      <itunes:order>17</itunes:order>
+    </item>
+    <item>
+      <title>Как учиться правильно? / "Сделано с нуля" подкаст 034</title>
+      <link>https://www.youtube.com/watch?v=3u5hEglhpos</link>
+      <guid isPermaLink="false">3u5hEglhpos</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=3u5hEglhpos" length="0" type="video/mp4"/>
+      <pubDate>Mon, 29 Nov 2021 18:44:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/3u5hEglhpos/maxresdefault.jpg"/>
+      <itunes:order>16</itunes:order>
+    </item>
+    <item>
+      <title>Онлайн-конференция Ростелекома DataTalks 3.0. День 1</title>
+      <link>https://www.youtube.com/watch?v=CZeMr7_htfc</link>
+      <guid isPermaLink="false">CZeMr7_htfc</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=CZeMr7_htfc" length="0" type="video/mp4"/>
+      <pubDate>Wed, 24 Nov 2021 10:08:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/CZeMr7_htfc/maxresdefault.jpg"/>
+      <itunes:order>15</itunes:order>
+    </item>
+    <item>
+      <title>Людмила Улицкая о писательстве, истории своей семьи, Сталине и феминизме</title>
+      <link>https://www.youtube.com/watch?v=zNFcL3Dw2TE</link>
+      <guid isPermaLink="false">zNFcL3Dw2TE</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=zNFcL3Dw2TE" length="0" type="video/mp4"/>
+      <pubDate>Sun, 14 Nov 2021 18:26:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/zNFcL3Dw2TE/maxresdefault.jpg"/>
+      <itunes:order>14</itunes:order>
+    </item>
+    <item>
+      <title>Sorax о магии [Q&amp;A 02] (Подкаст 11.02.15)</title>
+      <link>https://www.youtube.com/watch?v=mvmiibrpY7M</link>
+      <guid isPermaLink="false">mvmiibrpY7M</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=mvmiibrpY7M" length="0" type="video/mp4"/>
+      <pubDate>Sun, 14 Nov 2021 18:20:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/mvmiibrpY7M/maxresdefault.jpg"/>
+      <itunes:order>13</itunes:order>
+    </item>
+    <item>
+      <title>Sorax об универсальных решениях [Q&amp;A 03] (Подкаст 24.10.16)</title>
+      <link>https://www.youtube.com/watch?v=vHdW5xKr9hY</link>
+      <guid isPermaLink="false">vHdW5xKr9hY</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=vHdW5xKr9hY" length="0" type="video/mp4"/>
+      <pubDate>Sun, 14 Nov 2021 18:19:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/vHdW5xKr9hY/maxresdefault.jpg"/>
+      <itunes:order>12</itunes:order>
+    </item>
+    <item>
+      <title>Sorax о потенциале [Q&amp;A 04] (Подкаст 31.10.16)</title>
+      <link>https://www.youtube.com/watch?v=mezO-nr7Ah4</link>
+      <guid isPermaLink="false">mezO-nr7Ah4</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=mezO-nr7Ah4" length="0" type="video/mp4"/>
+      <pubDate>Sun, 14 Nov 2021 18:19:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/mezO-nr7Ah4/maxresdefault.jpg"/>
+      <itunes:order>11</itunes:order>
+    </item>
+    <item>
+      <title>Sorax отвечает на вопросы [Q&amp;A 01] (Подкаст 21.10.14)</title>
+      <link>https://www.youtube.com/watch?v=bKimR9qpbx0</link>
+      <guid isPermaLink="false">bKimR9qpbx0</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=bKimR9qpbx0" length="0" type="video/mp4"/>
+      <pubDate>Sun, 14 Nov 2021 18:19:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/bKimR9qpbx0/maxresdefault.jpg"/>
+      <itunes:order>10</itunes:order>
+    </item>
+    <item>
+      <title>Супер продуктивная организация всего, что ты читаешь и слушаешь!</title>
+      <link>https://www.youtube.com/watch?v=RRi0UWPHgR8</link>
+      <guid isPermaLink="false">RRi0UWPHgR8</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=RRi0UWPHgR8" length="0" type="video/mp4"/>
+      <pubDate>Fri, 12 Nov 2021 12:32:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/RRi0UWPHgR8/maxresdefault.jpg"/>
+      <itunes:order>9</itunes:order>
+    </item>
+    <item>
+      <title>Лео Бокерия. Мифы о сердце: валокордин, холестерин и дистония</title>
+      <link>https://www.youtube.com/watch?v=j9JFZD3V7IU</link>
+      <guid isPermaLink="false">j9JFZD3V7IU</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=j9JFZD3V7IU" length="0" type="video/mp4"/>
+      <pubDate>Thu, 11 Nov 2021 07:52:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/j9JFZD3V7IU/maxresdefault.jpg"/>
+      <itunes:order>8</itunes:order>
+    </item>
+    <item>
+      <title>Какие научные данные самые достоверные?</title>
+      <link>https://www.youtube.com/watch?v=6YgjLAsuuIs</link>
+      <guid isPermaLink="false">6YgjLAsuuIs</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=6YgjLAsuuIs" length="0" type="video/mp4"/>
+      <pubDate>Thu, 04 Nov 2021 12:17:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/6YgjLAsuuIs/maxresdefault.jpg"/>
+      <itunes:order>7</itunes:order>
+    </item>
+    <item>
+      <title>НЕФТЬ и ЭКОЛОГИЯ. Спасут ли нас электромобили?</title>
+      <link>https://www.youtube.com/watch?v=_HbEl-2n5AQ</link>
+      <guid isPermaLink="false">_HbEl-2n5AQ</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=_HbEl-2n5AQ" length="0" type="video/mp4"/>
+      <pubDate>Wed, 13 Oct 2021 17:00:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/_HbEl-2n5AQ/maxresdefault.jpg"/>
+      <itunes:order>6</itunes:order>
+    </item>
+    <item>
+      <title>How to Take Smart Notes - Sonke Ahrens [Book Summary]</title>
+      <link>https://www.youtube.com/watch?v=0YEErA8QKAs</link>
+      <guid isPermaLink="false">0YEErA8QKAs</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=0YEErA8QKAs" length="0" type="video/mp4"/>
+      <pubDate>Sun, 26 Sep 2021 11:56:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/0YEErA8QKAs/maxresdefault.jpg"/>
+      <itunes:order>5</itunes:order>
+    </item>
+    <item>
+      <title>Стили обучения — это миф [Veritasium]</title>
+      <link>https://www.youtube.com/watch?v=dTAlu_l0LGo</link>
+      <guid isPermaLink="false">dTAlu_l0LGo</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=dTAlu_l0LGo" length="0" type="video/mp4"/>
+      <pubDate>Sat, 14 Aug 2021 17:15:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/dTAlu_l0LGo/maxresdefault.jpg"/>
+      <itunes:order>4</itunes:order>
+    </item>
+    <item>
+      <title>ALL ABOUT MUSICAL SCALES - A COMPLETE GUIDE!!!</title>
+      <link>https://www.youtube.com/watch?v=Vq2xt2D3e3E</link>
+      <guid isPermaLink="false">Vq2xt2D3e3E</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=Vq2xt2D3e3E" length="0" type="video/mp4"/>
+      <pubDate>Mon, 26 Jul 2021 09:26:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/Vq2xt2D3e3E/maxresdefault.jpg"/>
+      <itunes:order>3</itunes:order>
+    </item>
+    <item>
+      <title>4 способа стать более энергичным</title>
+      <link>https://www.youtube.com/watch?v=t0o-YrPukUE</link>
+      <guid isPermaLink="false">t0o-YrPukUE</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=t0o-YrPukUE" length="0" type="video/mp4"/>
+      <pubDate>Fri, 18 Jun 2021 13:13:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/t0o-YrPukUE/maxresdefault.jpg"/>
+      <itunes:order>2</itunes:order>
+    </item>
+    <item>
+      <title>КАК Я ВЕДУ КОНСПЕКТЫ В УНИВЕРСИТЕТЕ!</title>
+      <link>https://www.youtube.com/watch?v=d7DdcydoxfA</link>
+      <guid isPermaLink="false">d7DdcydoxfA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=d7DdcydoxfA" length="0" type="video/mp4"/>
+      <pubDate>Wed, 16 Jun 2021 14:47:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/d7DdcydoxfA/maxresdefault.jpg"/>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
+      <title>Братья Грим - Ресницы (HQ)</title>
+      <link>https://www.youtube.com/watch?v=gXqcnE2UIIA</link>
+      <guid isPermaLink="false">gXqcnE2UIIA</guid>
+      <enclosure url="https://flask-hello-world-qbmp.onrender.com/?yt_id=gXqcnE2UIIA" length="0" type="video/mp4"/>
+      <pubDate>Sat, 14 Nov 2020 11:17:00 +0000</pubDate>
+      <itunes:image href="https://i.ytimg.com/vi/gXqcnE2UIIA/maxresdefault.jpg"/>
+      <itunes:order>0</itunes:order>
+    </item>
+  </channel>
+</rss>
